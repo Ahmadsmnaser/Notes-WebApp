@@ -1,0 +1,37 @@
+/* NoteList.css - Minimalist Cards */
+.Notes-container {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+}
+
+.note {
+    padding: 20px;
+    border: 1px solid #eaeaea;
+    border-radius: 8px;
+    background: white;
+}
+
+.note h3 {
+    margin: 0 0 10px 0;
+    font-size: 1.1rem;
+    color: #333;
+}
+
+.note-author {
+    font-size: 0.85rem;
+    color: #666;
+    margin-bottom: 12px;
+}
+
+.note-content {
+    font-size: 0.95rem;
+    color: #444;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 600px) {
+    .Notes-container {
+        grid-template-columns: 1fr;
+    }
+}
