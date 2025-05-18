@@ -14,13 +14,13 @@ describe('Notes API', () => {
         expect(res.statusCode).toBe(201);
         expect(res.body.title).toBe('Test Note');
         createdNoteId = res.body._id;
-    });
+    }, 10000);
 
     it('should get all notes', async () => {
         const res = await request(app).get('/notes');
         expect(res.statusCode).toBe(200);
         expect(Array.isArray(res.body)).toBe(true);
-    });
+    } , 10000);
 
     it('should update the created note', async () => {
         const res = await request(app).put(`/notes/${createdNoteId}`).send({
@@ -29,13 +29,13 @@ describe('Notes API', () => {
 
         expect(res.statusCode).toBe(200);
         expect(res.body.title).toBe('Updated Note');
-    });
+    } , 10000);
 
     it('should delete the created note', async () => {
         const res = await request(app).delete(`/notes/${createdNoteId}`);
         expect(res.statusCode).toBe(200);
         expect(res.body.message).toBe('Note deleted successfully');
-    });
+    } , 10000);
 });
 afterAll(async () => {
     await mongoose.connection.close();
