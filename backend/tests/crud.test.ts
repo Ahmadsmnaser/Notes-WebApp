@@ -1,9 +1,17 @@
 import request from 'supertest';
 import app from '../expressApp';
 import mongoose from 'mongoose';
+import { connectToDB } from '../config/db';
+
 describe('Notes API', () => {
     let createdNoteId: string;
+    beforeAll(async () => {
+        await connectToDB();
+    });
 
+    afterAll(async () => {
+        await mongoose.connection.close();
+    });
     it('should create a note', async () => {
         const res = await request(app).post('/notes').send({
             title: 'Test Note',
