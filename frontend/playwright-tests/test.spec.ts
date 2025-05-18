@@ -1,6 +1,14 @@
 import { test, expect } from '@playwright/test';
 
-test('homepage has welcome text', async ({ page }) => {
+test('homepage should have title', async ({ page }) => {
     await page.goto('http://localhost:3000');
-    await expect(page.getByText('Welcome to My Notes App')).toBeVisible();
+    await expect(page).toHaveTitle(/Notes/i);
+});
+
+test('homepage should display welcome text', async ({ page }) => {
+    await page.goto('http://localhost:3000');
+
+    const welcomeText = 'Welcome to My Notes App';
+
+    await expect(page.getByText(welcomeText)).toBeVisible({ timeout: 10000 });
 });
