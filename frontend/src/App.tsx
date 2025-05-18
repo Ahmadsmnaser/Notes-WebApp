@@ -58,7 +58,7 @@ const AppContent: React.FC = () => {
 
   return (
     <div className="app">
-      <h1>Welcome to My Notes App</h1>
+      <h1>Welcome to My Notes App</h1>   
       <div className="notification">{notification}</div>
       <NoteList />
       {notes.length > 0 && (
