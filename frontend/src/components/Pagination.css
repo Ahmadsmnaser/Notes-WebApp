@@ -1,0 +1,76 @@
+/* Pagination container */
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 2rem 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Base button styles */
+.pagination button {
+    padding: 0.5rem 1rem;
+    border: 1px solid #ddd;
+    background-color: #f8f8f8;
+    color: #333;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    min-width: 40px;
+    text-align: center;
+}
+
+/* Hover state */
+.pagination button:not(:disabled):hover {
+    background-color: #e0e0e0;
+    border-color: #ccc;
+}
+
+/* Active/current page */
+.pagination button.active {
+    /* Target the class directly */
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+    font-weight: bold;
+}
+
+/* Hover state for active buttons */
+.pagination button.active:hover:not(:disabled) {
+    background-color: #0056b3;
+    /* A slightly darker blue for active hover */
+    border-color: #0056b3;
+}
+
+/* Active/current page */
+.pagination button[style*="bold"] {
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+    font-weight: bold;
+}
+
+/* Disabled buttons */
+.pagination button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    background-color: #f8f8f8;
+}
+
+/* First and Last buttons */
+.pagination button[name="first"],
+.pagination button[name="last"] {
+    padding: 0.5rem 0.75rem;
+}
+
+/* Previous and Next buttons */
+.pagination button[name="previous"],
+.pagination button[name="next"] {
+    padding: 0.5rem 0.75rem;
+}
+
+/* Add some margin if needed */
+.pagination {
+    margin: 20px 0;
+}
