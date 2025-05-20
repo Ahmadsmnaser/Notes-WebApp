@@ -78,7 +78,7 @@ const save = async (id: string) => {
 
       dispatch({ type: 'FETCH_SUCCESS', payload: { notes: notesWithIds } });
 
-      dispatch({ type: 'SET_NOTIFICATION', payload: 'Note deleted successfully' });
+      dispatch({ type: 'SET_NOTIFICATION', payload: 'Note deleted' });
     } catch (error) {
       console.error('Failed to delete note:', id);
       dispatch({ type: 'FETCH_ERROR', payload: 'Failed to delete note.' });
