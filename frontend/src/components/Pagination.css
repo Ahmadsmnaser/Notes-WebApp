@@ -1,0 +1,58 @@
+/* Pagination Container */
+.pagination {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem; /* Balanced spacing between buttons */
+    justify-content: center;
+    margin-top: 2rem;
+    padding: 1rem;
+    background: linear-gradient(135deg, #b71c1c, #0d47a1); /* Spider-Man red & blue gradient */
+    border-radius: 1rem; /* Smooth, modern corners */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Heroic depth with shadow */
+}
+
+/* Pagination Buttons */
+.pagination button {
+    min-width: 3em; /* Comfortable width for all devices */
+    padding: 0.5rem 1rem;
+    background: #2c2c34; /* Dark background for contrast */
+    border: 2px solid #444; /* Bold border for visibility */
+    border-radius: 0.5rem; /* Rounded corners for superhero vibe */
+    color: #eaeaea; /* Light text for contrast */
+    font-size: 1rem; /* Consistent text size */
+    font-weight: bold; /* Bold text for readability */
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth hover effects */
+}
+
+/* Disabled Buttons */
+.pagination button[disabled] {
+    opacity: 0.5;
+    cursor: not-allowed; /* Disabled look */
+}
+
+/* Hover Effect for Enabled Buttons */
+.pagination button:not([disabled]):hover {
+    background: #3a3a48; /* Subtle hover background */
+    transform: scale(1.1); /* Dynamic zoom effect */
+    border-color: #ff4500; /* Highlight border with Spider-Man red */
+}
+
+/* Active Button State */
+.pagination button.active {
+    background: #99b6d7; /* Spider-Man blue for active state */
+    color: #fff; /* White text for contrast */
+    border-color: #b71c1c; /* Spider-Man red for active border */
+    transform: scale(1.2); /* Larger zoom for active state */
+    box-shadow: 0 0 10px rgba(244, 124, 124, 0.5); /* Glowing red shadow */
+    font-weight: bold;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 600px) {
+    .pagination button {
+        min-width: 2.2em; /* Compact size for small screens */
+        font-size: 0.875rem; /* Adjust font size for better fit */
+        padding: 0.4rem 0.8rem; /* Smaller padding */
+    }
+}

@@ -1,0 +1,24 @@
+:root {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  font-weight: 600;
+
+  color-scheme: light dark;
+  color: #e8e8e8; /* Light gray text for contrast */
+  
+  /* Background inspired by Spider-Man’s red & blue with a subtle web pattern */
+  background: linear-gradient(135deg, rgba(11, 249, 11, 0.133) 40%, #0d47a1 60%);
+  background-repeat: no-repeat;
+
+  /* Add a subtle repeating web pattern using a CSS radial gradient */
+  background-image: 
+    radial-gradient(circle at 10% 10%, rgba(255, 255, 255, 0.1) 2px, transparent 3px),
+    radial-gradient(circle at 90% 10%, rgba(255, 255, 255, 0.1) 2px, transparent 3px),
+    radial-gradient(circle at 50% 90%, rgba(255, 255, 255, 0.1) 2px, transparent 3px);
+  background-size: 50px 50px;
+  
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
