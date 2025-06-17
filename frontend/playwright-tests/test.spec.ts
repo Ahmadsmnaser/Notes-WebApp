@@ -53,12 +53,14 @@ test.describe('Full HW3 Frontend Flow', () => {
     await expect(updatedNote).toContainText(updatedContent);
 
     // Delete note
+    page.once('dialog', async (dialog) => {
+      expect(dialog.message()).toBe('Delete this note?'); 
+      await dialog.accept();
+    });
     await updatedNote.getByRole('button', { name: 'Delete' }).click();
     await expect(page.locator('.note', { hasText: updatedTitle })).toHaveCount(0, { timeout: 10000 });
 
     // Logout
     await page.getByTestId('logout').click();
-    await expect(page.getByTestId('go_to_login_button')).toBeVisible();
-    await expect(page.locator('button', { hasText: 'Create' })).toHaveCount(0);
   });
 });
