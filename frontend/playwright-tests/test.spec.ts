@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
 
 const login = async (page) => {
-  await page.goto('http://localhost:5173/');
+  await page.goto('http://localhost:3000/');
   await page.getByTestId('go_to_login_button').click();
   await page.getByTestId('login_form_username').fill('s');
   await page.getByTestId('login_form_password').fill('m');
