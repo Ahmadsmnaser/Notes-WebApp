@@ -1,0 +1,3 @@
+npm run dev
+
+./presubmission.sh https://github.com/Aseel205/FullStack /c/Users/aseel/OneDrive/Desktop/6th\ semester/FullStack/assigments/NotesApp\ before\ submission/backend/.env

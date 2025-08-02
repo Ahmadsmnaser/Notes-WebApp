@@ -1,0 +1,14 @@
+# General
+node_modules/
+.env
+package-lock.json
+*.stackdump
+*.log
+keylog.txt
+
+# Testing
+playwright-report/
+
+# System files
+.DS_Store
+presubmission_tests/

