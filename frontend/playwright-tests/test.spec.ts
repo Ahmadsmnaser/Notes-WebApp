@@ -16,6 +16,7 @@ async function deleteNoteByTitle(page, title: string) {
     // Optionally: wait for it to disappear
     await expect(page.getByTestId(testId)).toHaveCount(0);
   }
+  
 }
 
 
