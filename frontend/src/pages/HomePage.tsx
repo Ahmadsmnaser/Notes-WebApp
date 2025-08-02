@@ -5,9 +5,9 @@ import {
   useNotes,
   Note,
   fetchNotesWithSlidingCache,
-} from '../context/NotesContext';
-import { useAuth } from '../context/AuthContext';
-import { useNotification } from '../context/NotificationContext';
+} from '../contexts/NotesContext';
+import { useAuth } from '../contexts/AuthContext';
+import { useNotification } from '../contexts/NotificationContext';
 import PostList from '../components/PostList';
 import Pagination from '../components/Pagination';
 import Post from '../components/Post';

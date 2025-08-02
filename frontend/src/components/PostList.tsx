@@ -1,7 +1,7 @@
 import axios from 'axios';
-import { useNotes, Note } from '../context/NotesContext';
-import { useAuth } from '../context/AuthContext';
-import { useNotification } from '../context/NotificationContext';
+import { useNotes, Note } from '../contexts/NotesContext';
+import { useAuth } from '../contexts/AuthContext';
+import { useNotification } from '../contexts/NotificationContext';
 import { sanitizeHtml } from './sanitizeHtml'; // adjust path if needed
 import './PostList.css';
 import React, { useEffect } from 'react';

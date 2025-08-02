@@ -1,8 +1,8 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import { NotesProvider } from './context/NotesContext';
-import { AuthProvider } from './context/AuthContext';
-import { NotificationProvider } from './context/NotificationContext';
+import { NotesProvider } from './contexts/NotesContext';
+import { AuthProvider } from './contexts/AuthContext';
+import { NotificationProvider } from './contexts/NotificationContext';
 import HomePage from './pages/HomePage';
 import LoginPage from './pages/LoginPage';
 import CreateUserPage from './pages/CreateUserPage';

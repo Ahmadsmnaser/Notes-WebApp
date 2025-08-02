@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import { useNotes, Note } from '../context/NotesContext';
-import { useAuth } from '../context/AuthContext';
-import { useNotification } from '../context/NotificationContext';
+import { useNotes, Note } from '../contexts/NotesContext';
+import { useAuth } from '../contexts/AuthContext';
+import { useNotification } from '../contexts/NotificationContext';
 import './Post.css';
 
 type Props = { editingNote?: Note; onClose?: () => void };
