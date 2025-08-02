@@ -26,10 +26,8 @@ test.describe('Rich Notes XSS & Sanitizer', () => {
   });
 
   test('XSS payload triggers when sanitizer is OFF', async ({ page }) => {
-   // await page.getByLabel('Sanitizer OFF').check();
-    await page.getByRole('radio', { name: 'Sanitizer OFF' }).check();
-
-   await page.getByPlaceholder('Title').fill('XSS Test');
+    await page.getByLabel('Sanitizer OFF').check();
+    await page.getByPlaceholder('Title').fill('XSS Test');
     await page.getByPlaceholder('Content').fill(`<img src=x onerror="alert('XSS');" />`);
     await page.getByRole('button', { name: 'Create' }).click();
 
@@ -45,9 +43,7 @@ test.describe('Rich Notes XSS & Sanitizer', () => {
   });
 
   test('Sanitizer blocks XSS when ON', async ({ page }) => {
-    // await page.getByLabel('Sanitizer ON').check();
-    await page.getByRole('radio', { name: 'Sanitizer ON' }).check();
-
+    await page.getByLabel('Sanitizer ON').check();
     await page.getByPlaceholder('Title').fill('XSS Blocked');
     await page.getByPlaceholder('Content').fill(`<img src=x onerror="alert('SHOULD NOT RUN');" />`);
     await page.getByRole('button', { name: 'Create' }).click();
