@@ -7,7 +7,7 @@ const USER = {
 
 test.describe('Basic Rich Notes Tests', () => {
   test.beforeEach(async ({ page }) => {
-    await page.goto('http://localhost:3000/');
+    await page.goto('http://localhost:3000/', { timeout: 10000 }); // 10s timeout
   });
 
   test('Login with valid credentials', async ({ page }) => {
@@ -16,7 +16,7 @@ test.describe('Basic Rich Notes Tests', () => {
     await page.getByTestId('login_form_password').fill(USER.password);
     await page.getByTestId('login_form_login').click();
 
-    await page.waitForURL('**/');
+    await page.waitForURL('**/', { timeout: 5000 });
     await expect(page.getByTestId('logout')).toBeVisible({ timeout: 5000 });
   });
 
