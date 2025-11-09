@@ -40,34 +40,22 @@ The app demonstrates product-oriented development including backend APIs, databa
 
    - Dev Practices: REST APIs, modular architecture, error handling, responsive UI
 
-## 👤 My Role
-
-   - Designed and implemented the full-stack architecture
-
-   - Developed the backend REST APIs for user auth and notes management
-
-   - Built frontend UI components and integrated with backend
-
-   - Handled input validation, error flows, and responsive design
-
-   - Wrote unit tests (if applicable) and documented the project
-
 ## ▶️ Installation
 
-- Clone the repository
+- Clone the repository: 
 git clone https://github.com/Ahmadsmnaser/Notes-WebApp.git
 
-- Navigate to backend
-cd Notes-WebApp/backend
-npm install
-npm start
+- Navigate to backend: 
+cd Notes-WebApp/backend , 
+npm install , 
+npm start 
 
-- Navigate to frontend in a new terminal
-cd Notes-WebApp/frontend
-npm install
+- Navigate to frontend in a new terminal: 
+cd Notes-WebApp/frontend , 
+npm install , 
 npm run dev
 
-- Open your browser at http://localhost:3000 (or configured port) and register/login to start using the app.
+- Open your browser at http://localhost:3000 and register/login to start using the app.
 
 ## ✅ Example Usage
 
