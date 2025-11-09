@@ -18,13 +18,13 @@ The app demonstrates product-oriented development including backend APIs, databa
 
 - The application uses a multi-layer architecture:
 
-    Front-end built in React + TypeScript
+- Front-end built in React + TypeScript
 
-    Backend built in Node.js/Express, connecting to MongoDB
+- Backend built in Node.js/Express, connecting to MongoDB
 
-    JWT authentication for session security
+- JWT authentication for session security
 
-    Environment variables for config, secure use
+- Environment variables for config, secure use
 
 ## 🛠️ Tech Stack
 
@@ -40,15 +40,6 @@ The app demonstrates product-oriented development including backend APIs, databa
 
    - Dev Practices: REST APIs, modular architecture, error handling, responsive UI
 
-## 📂 Project Structure
-
-Notes-WebApp/
-│── src/
-│   ├── frontend/
-│   └── backend/
-│── tests/
-│── README.md
-
 ## 👤 My Role
 
    - Designed and implemented the full-stack architecture
@@ -63,20 +54,20 @@ Notes-WebApp/
 
 ## ▶️ Installation
 
-# Clone the repository
+- Clone the repository
 git clone https://github.com/Ahmadsmnaser/Notes-WebApp.git
 
-# Navigate to backend
+- Navigate to backend
 cd Notes-WebApp/backend
 npm install
 npm start
 
-# Navigate to frontend in a new terminal
+- Navigate to frontend in a new terminal
 cd Notes-WebApp/frontend
 npm install
 npm run dev
 
-Open your browser at http://localhost:3000 (or configured port) and register/login to start using the app.
+- Open your browser at http://localhost:3000 (or configured port) and register/login to start using the app.
 
 ## ✅ Example Usage
 
